@@ -1,0 +1,38 @@
+CONFIGURACIONES CORREGIDAS: 26
+CONFIGURACIONES ESPERADAS NO ENCONTRADAS: 0
+ERRORES DE CONTEO TRAS GENERAR: 0
+
+COMPROBACION ESPECIFICA:
+BOMBA MEDIMA L/S 310028479
+Componentes esperados: 6
+Componentes presentes en ficha final: 6
+
+Configuraciones auditadas por nº de serie:
+- 310028479: 6 componentes
+- 43774: 3 componentes
+- 900.13847: 4 componentes
+- 37605171: 9 componentes
+- AR22H069469: 23 componentes
+- 072024 IO 11525: 6 componentes
+- 072024 IO 11227: 6 componentes
+- 072024 IO 11233: 5 componentes
+- 082023 IO 8297: 5 componentes
+- 102022 IO 5471: 5 componentes
+- 102022 IO 5468: 5 componentes
+- 102022 IO 5497: 5 componentes
+- 102022 IO 5454: 5 componentes
+- 9000.001105: 8 componentes
+- 9000.001039: 8 componentes
+- VH2679385G: 2 componentes
+- 128950000792: 12 componentes
+- 6006: 5 componentes
+- 6126: 5 componentes
+- 27372: 8 componentes
+- 65622-0028: 15 componentes
+- 61262-0050: 15 componentes
+- 67354-0042: 15 componentes
+- 53109-0133: 15 componentes
+- 53204-0149 NF: 13 componentes
+- 53204-0097 NF: 17 componentes
+
+Errores: NINGUNO

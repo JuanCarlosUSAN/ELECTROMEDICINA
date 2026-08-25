@@ -1,0 +1,8 @@
+Fichas regeneradas: 119
+Fichas con más de un registro/componente: 17
+Fichas sin tabla de composición: 0
+Archivos problemáticos: NINGUNO
+
+IMPORTANTE:
+Las fichas de equipos que fueron remitidos SIN CONFIGURACIÓN contienen únicamente el registro del equipo principal.
+Las fichas para las que sí se facilitaron componentes conservan su composición, cantidades, NOC y estados.
