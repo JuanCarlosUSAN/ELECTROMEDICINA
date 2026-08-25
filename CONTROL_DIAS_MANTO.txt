@@ -1,9 +1,0 @@
-Fichas con cálculo dinámico de DIAS EN MANTO: 31
-
-Funcionamiento:
-- Se ha retirado de la vista el campo "Fecha generación".
-- Se muestra "DIAS EN MANTO".
-- El cálculo se realiza cada vez que se abre la ficha.
-- Fecha de inicio interna: la Fecha Generación del PMANTO.
-- Fórmula: fecha actual del dispositivo - fecha generación.
-- No necesita editar manualmente el número de días.
