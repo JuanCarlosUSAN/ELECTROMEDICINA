@@ -1,4 +1,0 @@
-Registros añadidos/actualizados: 45
-Total fichas: 119
-Duplicados de nº serie detectados: 0
-Se incorporan NOMBRE UCO=GL VII y ASIGNADA en cada botella/protóxido.
