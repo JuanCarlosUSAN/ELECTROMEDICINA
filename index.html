@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ELECTROMEDICINA</title>
+<style>
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f3f6f9;
+    color:#1f2937
+  }
+  header{
+    background:#ffffff;
+    border-bottom:1px solid #e5e7eb;
+    position:sticky;
+    top:0;
+    z-index:10
+  }
+  .top{
+    max-width:1100px;
+    margin:auto;
+    padding:22px 18px 16px
+  }
+  h1{
+    margin:0;
+    font-size:30px;
+    letter-spacing:.5px
+  }
+  .sub{
+    margin-top:6px;
+    color:#6b7280;
+    font-size:14px
+  }
+  .searchbox{
+    max-width:1100px;
+    margin:auto;
+    padding:0 18px 18px
+  }
+  input{
+    width:100%;
+    padding:14px 16px;
+    border:1px solid #cbd5e1;
+    border-radius:10px;
+    font-size:16px;
+    outline:none
+  }
+  input:focus{
+    border-color:#64748b;
+    box-shadow:0 0 0 3px rgba(100,116,139,.12)
+  }
+  main{
+    max-width:1100px;
+    margin:auto;
+    padding:22px 18px 50px
+  }
+  .info{
+    display:flex;
+    justify-content:space-between;
+    gap:12px;
+    align-items:center;
+    margin-bottom:16px;
+    color:#64748b;
+    font-size:14px
+  }
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:16px
+  }
+  .card{
+    background:#fff;
+    border-radius:14px;
+    box-shadow:0 3px 14px rgba(0,0,0,.07);
+    padding:18px;
+    border:1px solid #eef2f7
+  }
+  .card h2{
+    margin:0 0 8px;
+    font-size:19px;
+    line-height:1.25
+  }
+  .id{
+    font-weight:700;
+    margin-bottom:12px
+  }
+  .meta{
+    font-size:14px;
+    color:#475569;
+    margin-bottom:14px;
+    line-height:1.5
+  }
+  .status{
+    display:inline-block;
+    padding:5px 9px;
+    border-radius:999px;
+    background:#fef2f2;
+    color:#991b1b;
+    font-size:12px;
+    font-weight:700;
+    margin-bottom:14px
+  }
+  .btn{
+    display:inline-block;
+    text-decoration:none;
+    padding:10px 14px;
+    border-radius:9px;
+    background:#111827;
+    color:white;
+    font-weight:700;
+    font-size:14px
+  }
+  .btn:hover{opacity:.9}
+  .empty{
+    display:none;
+    background:white;
+    border-radius:12px;
+    padding:24px;
+    text-align:center;
+    color:#64748b
+  }
+  footer{
+    text-align:center;
+    color:#94a3b8;
+    font-size:12px;
+    padding:22px
+  }
+  @media(max-width:600px){
+    h1{font-size:24px}
+    .top{padding-top:16px}
+    .info{align-items:flex-start;flex-direction:column}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="top">
+    <h1>ELECTROMEDICINA</h1>
+    <div class="sub">Inventario y composición de equipos</div>
+  </div>
+
+  <div class="searchbox">
+    <input
+      id="search"
+      type="search"
+      placeholder="Buscar por equipo, ID, NOC, serie..."
+      autocomplete="off"
+    >
+  </div>
+</header>
+
+<main>
+  <div class="info">
+    <div id="counter">1 equipo</div>
+    <div>Seleccione un equipo para consultar su ficha</div>
+  </div>
+
+  <div id="grid" class="grid">
+
+    <article class="card"
+      data-search="respirador portátil hersill vitae 40 hersill vitae 40 53204-0097 nf 6140332195563 6140332195552 6150332184272 6515332184302 6130332184271 8465332184279 6630332184270 6515332184278 7610332184268 6515332184275 6515332184276 6515332184277 7030332184274 6515332184280 6515332184284">
+      <h2>RESPIRADOR PORTÁTIL HERSILL VITAE 40</h2>
+      <div class="id">53204-0097 NF</div>
+      <div class="meta">
+        Equipo de electromedicina<br>
+        16 componentes registrados
+      </div>
+      <div class="status">2 ELEMENTOS AUSENTES</div><br>
+      <a class="btn" href="ficha_hersill_vitae40.html">VER FICHA</a>
+    </article>
+
+  </div>
+
+  <div id="empty" class="empty">
+    No se han encontrado equipos con ese criterio.
+  </div>
+</main>
+
+<footer>
+  ELECTROMEDICINA · Inventario digital
+</footer>
+
+<script>
+  const search = document.getElementById('search');
+  const cards = [...document.querySelectorAll('.card')];
+  const counter = document.getElementById('counter');
+  const empty = document.getElementById('empty');
+
+  function normalizar(texto){
+    return texto
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function filtrar(){
+    const q = normalizar(search.value.trim());
+    let visibles = 0;
+
+    cards.forEach(card => {
+      const texto = normalizar(card.dataset.search + " " + card.innerText);
+      const mostrar = texto.includes(q);
+      card.style.display = mostrar ? "" : "none";
+      if(mostrar) visibles++;
+    });
+
+    counter.textContent = visibles + (visibles === 1 ? " equipo" : " equipos");
+    empty.style.display = visibles === 0 ? "block" : "none";
+  }
+
+  search.addEventListener('input', filtrar);
+</script>
+
+</body>
+</html>
