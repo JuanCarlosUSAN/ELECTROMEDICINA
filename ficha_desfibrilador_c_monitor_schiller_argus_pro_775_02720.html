@@ -1,50 +1,254 @@
 <!doctype html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>DESFIBRILADOR C/ MONITOR SCHILLER ARGUS PRO LIFE CARE 2 - 775.02720</title>
 <style>
-*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f4f6f8;color:#1f2937}
-.wrap{max-width:1000px;margin:auto;padding:18px}.card{background:white;border-radius:14px;overflow:hidden;box-shadow:0 4px 18px #00000012}
-.head{padding:22px;background:#183b5b;color:white}h1{font-size:22px;margin:0 0 12px}
-.idrow{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.identifier{font-size:32px;font-weight:900;color:#c62828;background:white;padding:10px 15px;border-radius:10px}
-.noc-head{font-size:16px;font-weight:800;margin-top:10px}
-
-.meta-grid{
-  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
-  gap:10px;margin-top:14px
-}
-.meta-box{
-  background:rgba(255,255,255,.10);
-  border:1px solid rgba(255,255,255,.22);
-  border-radius:10px;padding:10px 12px
-}
-.meta-label{
-  font-size:11px;font-weight:800;letter-spacing:.5px;
-  text-transform:uppercase;opacity:.78
-}
-.meta-value{
-  margin-top:4px;font-size:15px;font-weight:800;word-break:break-word
-}
-.meta-value.alert{color:#ffd4d4}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f4f6f8;color:#1f2937}
+.wrap{max-width:1100px;margin:auto;padding:18px}
+.card{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 4px 18px rgba(0,0,0,.08)}
+.head{padding:22px;background:#173f63;color:#fff}
+.head h1{margin:0 0 12px;font-size:24px;line-height:1.2}
+.serial{display:inline-block;background:#fff;color:#c62828;font-size:34px;font-weight:900;padding:10px 16px;border-radius:10px}
+.noc{margin-top:12px;font-size:16px;font-weight:800}
+.meta{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:14px}
+.box{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.22);border-radius:10px;padding:10px 12px}
+.lab{font-size:11px;font-weight:800;opacity:.78;letter-spacing:.4px}
+.val{margin-top:4px;font-size:15px;font-weight:800}
+.statusline{margin-top:12px;font-weight:800}
+.good{color:#166534;font-weight:800}
+.bad{color:#b91c1c;font-weight:800}
+table{width:100%;border-collapse:collapse}
+th,td{padding:12px 10px;border-bottom:1px solid #e5e7eb;text-align:left;vertical-align:top}
+th{background:#f8fafc;font-size:13px}
+.footer{text-align:center;margin-top:28px;padding:18px 12px 4px;border-top:1px solid #d0d5dd;color:#667085}
+.footer-title{font-size:12px;font-weight:700;text-transform:uppercase}
+.footer-author{margin-top:6px;font-size:11px;color:#98a2b3}
 @media(max-width:700px){
-  .meta-grid{grid-template-columns:1fr}
+ .wrap{padding:8px} .serial{font-size:27px} .meta{grid-template-columns:1fr}
+ table,thead,tbody,tr,th,td{display:block} thead{display:none}
+ tr{padding:10px 12px;border-bottom:1px solid #e5e7eb} td{border:0;padding:4px 0}
+ td:nth-child(1)::before{content:"Artículo: ";font-weight:700;color:#667085}
+ td:nth-child(2)::before{content:"FCH CAD: ";font-weight:700;color:#667085}
+ td:nth-child(3)::before{content:"NOC: ";font-weight:700;color:#667085}
+ td:nth-child(4)::before{content:"Nº Serie / Cantidad: ";font-weight:700;color:#667085}
+ td:nth-child(5)::before{content:"Estado: ";font-weight:700;color:#667085}
 }
-
-.tablewrap{padding:18px}table{width:100%;border-collapse:collapse}th,td{padding:11px 9px;border-bottom:1px solid #e5e7eb;text-align:left}th{background:#f8fafc;font-size:13px}
-.bad{color:#b91c1c;font-weight:800}.neutral{color:#475467;font-weight:800}
-.footer{text-align:center;margin-top:28px;padding:18px 12px 4px;border-top:1px solid #d0d5dd;color:#667085}.footer-title{font-size:12px;font-weight:700;text-transform:uppercase}.footer-author{margin-top:6px;font-size:11px;color:#98a2b3}
-</style></head>
-<body><div class="wrap"><div class="card"><div class="head">
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+<div class="head">
 <h1>DESFIBRILADOR C/ MONITOR SCHILLER ARGUS PRO LIFE CARE 2</h1>
-<div class="idrow"><div class="identifier">775.02720</div></div>
-<div class="noc-head">NOC: 6515-41-001-5300</div>
-<div class="meta-grid">
-  <div class="meta-box"><div class="meta-label">PMANTO</div><div class="meta-value">—</div></div>
-  <div class="meta-box"><div class="meta-label">FCH CAD CTL</div><div class="meta-value ">may-27</div></div>
-  <div class="meta-box"><div class="meta-label">PERTENENCIA</div><div class="meta-value">ET 117868_SVA</div></div>
+<div class="serial">775.02720</div>
+<div class="noc">NOC: 6515-41-001-5300</div>
+<div class="meta">
+  <div class="box"><div class="lab">PMANTO</div><div class="val">—</div></div>
+  <div class="box"><div class="lab">FCH CAD CTL</div><div class="val">may-27</div></div>
+  <div class="box"><div class="lab">PERTENENCIA</div><div class="val">ET 117868_SVA</div></div>
 </div>
-</div><div class="tablewrap">
-<table><thead><tr><th>Artículo</th><th>FCH CAD</th><th>NOC</th><th>Nº Serie / Cantidad</th><th>Estado</th></tr></thead>
-<tbody><tr><td>DESFIBRILADOR C/ MONITOR SCHILLER ARGUS PRO LIFE CARE 2</td><td></td><td>6515-41-001-5300</td><td>775.02720</td><td class="neutral">SIN CONFIGURACIÓN DETALLADA</td></tr></tbody></table>
-</div></div>
-<div class="footer"><div class="footer-title">ELECTROMEDICINA · Ficha Digital de Material</div><div class="footer-author">Diseño y elaboración · STTE. AMADO</div></div>
-</div></body></html>
+<div class="statusline">Estado del equipo: <span class="good">OPERATIVO</span></div>
+</div>
+<table>
+<thead><tr><th>Artículo</th><th>FCH CAD</th><th>NOC</th><th>Nº Serie / Cantidad</th><th>Estado</th></tr></thead>
+<tbody>
+<tr>
+<td>SOPORTE DESFIBRILADOR SCHILLER</td>
+<td></td>
+<td>5975-41-001-5320</td>
+<td>Nº Serie: 776.01797</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE SENSOR SPCO, SPMET, SPO2 MASIMO</td>
+<td></td>
+<td>6515-01-619-0719</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>PALETAS EXTERIORES, PARA DESFIBRILADOR</td>
+<td></td>
+<td>6515-41-001-5321</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE DE PACIENTE CUATRO DERIVACIONES</td>
+<td></td>
+<td>6515-33-217-2119</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>EXTENSION DE ELECTRODOS 6 LATIGUILLOS TIPO CLIPS</td>
+<td></td>
+<td>6515-41-001-5966</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>BATERIA RECARGABLE DESFIBRILADOR SCHILLER</td>
+<td></td>
+<td>6140-41-004-9351</td>
+<td>Cant: 2</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>FUENTE DE ALIMENTACION SCHILLER</td>
+<td></td>
+<td>6515-41-001-6720</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE RED FUENTE DE ALIMENTACION</td>
+<td></td>
+<td>6150-41-001-6741</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE CONECTOR ALARGADOR SP O2</td>
+<td></td>
+<td>6515-01-681-6751</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE SENSOR DE SPO2, ADULTOS</td>
+<td></td>
+<td>6515-01-644-2880</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>ADAPTADOR PEDIATRICO PARA PALAS</td>
+<td></td>
+<td>6515-12-499-0169</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>MANGUITO PEDIATRICO BAUM DECOR</td>
+<td></td>
+<td>6515-01-686-4603</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>PARCHE ELECTRODO ECG AMBU WHITE</td>
+<td></td>
+<td>6515-22-614-5551</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE SENSOR IRMA CO2 SCHILLER</td>
+<td></td>
+<td>6150-17-121-3019</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE INTERFACE IRMA/ISA SCHILLER</td>
+<td></td>
+<td>6150-41-001-6744</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>BOQUILLA CAPNOGRAFIA IRMA CO2</td>
+<td></td>
+<td>6515-14-569-2274</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>PAPEL IMPRESORA DESFIBRILADOR SCHILLER</td>
+<td></td>
+<td>6515-14-575-0902</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>MANGUITO ADULTO NIBP SCHILLER</td>
+<td></td>
+<td>6515-41-001-5969</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE TOMA DE TIERRA SCHILLER</td>
+<td></td>
+<td>6515-41-001-6745</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>PETACA TEST DE DESCARGA SCHILLER</td>
+<td></td>
+<td>6515-41-002-7959</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>SONDA TEMPERATURA SCHILLER</td>
+<td></td>
+<td>6515-41-003-5758</td>
+<td>Cant: 2</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>BOLSA DE TRANSPORTE SCHILLER</td>
+<td></td>
+<td>6545-41-003-1927</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CARGADOR DE BATERIA CS-1 DESF. SCHILLER</td>
+<td></td>
+<td>6130-33-217-6313</td>
+<td>Nº Serie: 768.01049</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR SCHILLER</td>
+<td></td>
+<td>6515-14-556-1240</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CABLE SONDA TEMP DESF C/ MONIT SCHILLER</td>
+<td></td>
+<td>6515-12-413-7109</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>CONEXION MANGUITO NIBP SCHILLER</td>
+<td></td>
+<td>6515-41-001-6742</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr>
+<tr>
+<td>PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER</td>
+<td></td>
+<td>6515-14-573-9411</td>
+<td>Cant: 1</td>
+<td class="good">OPERATIVO</td>
+</tr></tbody>
+</table>
+</div>
+<div class="footer">
+<div class="footer-title">ELECTROMEDICINA · Ficha Digital de Material</div>
+<div class="footer-author">Diseño y elaboración · STTE. AMADO</div>
+</div>
+</div>
+</body></html>

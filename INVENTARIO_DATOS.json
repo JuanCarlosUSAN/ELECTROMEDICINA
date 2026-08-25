@@ -1,0 +1,3846 @@
+[
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_10742188.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "10742188",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_oximetro_capnografo_microcap_plus_mp1104204.html",
+    "title": "OXIMETRO CAPNOGRAFO MICROCAP PLUS",
+    "serial": "MP1104204",
+    "noc": "6515-33-T10-3880",
+    "pmanto": "—",
+    "cad": "INUTIL",
+    "assigned": "Faltante_PCLA",
+    "uco": "",
+    "estado": "INUTIL",
+    "asignado_a": "Faltante_PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_kpl160.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "KPL160",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117722 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117722 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_vtx161.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "VTX161",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 116847 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 116847 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_bomba_infusion_monocanal_braun_infusomat_s_43774.html",
+    "title": "BOMBA INFUSION MONOCANAL BRAUN INFUSOMAT SPACE",
+    "serial": "43774",
+    "noc": "6515-12-390-1849",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE BOMBA INFUSION MONOCANAL BRAUN",
+        "noc": "6140-12-385-2089",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PINZA SOPORTE BRAUN",
+        "noc": "6515-12-385-1493",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "FUENTE DE ALIMENTACION BRAUN",
+        "noc": "6515-12-397-3915",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_bys013.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "BYS013",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 106517 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 106517 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_11026374.html",
+    "title": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
+    "serial": "11026374",
+    "noc": "4110-12-394-9772",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_amv_063.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "AMV-063",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117868 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117868 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_hersill_vitae40_65622_0028.html",
+    "title": "RESPIRADOR PORTATIL HERSILL VITAE 40",
+    "serial": "65622-0028",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5563",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "4",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE ALIMENTACION CONECTOR C13 RESPIRADOR HERSILL VITAE 40",
+        "noc": "6150-33-218-4272",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CIRCUITO PACIENTE VITAE 40 DESECHABLE ADULTO",
+        "noc": "6515-33-218-4302",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE ALIMENTACION PARA VITAE 40",
+        "noc": "6130-33-218-4271",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUNDA VITAE 40",
+        "noc": "8465-33-218-4279",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "KIT CAPNOGRAFIA IRMA CO2.VITAE 40",
+        "noc": "6630-33-218-4270",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUERA O2, TOMA DISS, 2M",
+        "noc": "6515-33-218-4278",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANUAL TECNICO VITAE 40",
+        "noc": "7610-33-218-4268",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 1",
+        "noc": "6515-33-218-4275",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 3",
+        "noc": "6515-33-218-4276",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 5",
+        "noc": "6515-33-218-4277",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOFTWARE VITAE 40",
+        "noc": "7030-33-218-4274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE PARED XG RESPIRADOR PORTATIL HERSILL VITAE 40",
+        "noc": "6515-33-218-4280",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE VITAE 40XG ORIENTABLE",
+        "noc": "6515-33-218-4284",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_hersill_vitae40_61262_0050.html",
+    "title": "RESPIRADOR PORTATIL HERSILL VITAE 40",
+    "serial": "61262-0050",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5563",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "4",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE ALIMENTACION CONECTOR C13 RESPIRADOR HERSILL VITAE 40",
+        "noc": "6150-33-218-4272",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CIRCUITO PACIENTE VITAE 40 DESECHABLE ADULTO",
+        "noc": "6515-33-218-4302",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE ALIMENTACION PARA VITAE 40",
+        "noc": "6130-33-218-4271",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUNDA VITAE 40",
+        "noc": "8465-33-218-4279",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "KIT CAPNOGRAFIA IRMA CO2.VITAE 40",
+        "noc": "6630-33-218-4270",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUERA O2, TOMA DISS, 2M",
+        "noc": "6515-33-218-4278",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANUAL TECNICO VITAE 40",
+        "noc": "7610-33-218-4268",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 1",
+        "noc": "6515-33-218-4275",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 3",
+        "noc": "6515-33-218-4276",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 5",
+        "noc": "6515-33-218-4277",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOFTWARE VITAE 40",
+        "noc": "7030-33-218-4274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE PARED XG RESPIRADOR PORTATIL HERSILL VITAE 40",
+        "noc": "6515-33-218-4280",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE VITAE 40XG ORIENTABLE",
+        "noc": "6515-33-218-4284",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_equipo_de_radiologia_portatil_pioneer_ph00357.html",
+    "title": "EQUIPO DE RADIOLOGIA PORTATIL PIONEER",
+    "serial": "PH00357",
+    "noc": "6525-33-220-5275",
+    "pmanto": "50030031-2025-1C-01119-0-00-00",
+    "cad": "NO TIENE_INOPERATIVO",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_amv_161.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "AMV-161",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117868 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117868 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_mnz_050.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "MNZ 050",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_monitor_const_vitales_ktmed_ktpm_1060_za1460352.html",
+    "title": "MONITOR CONST VITALES KTMED KTPM-1060",
+    "serial": "ZA1460352",
+    "noc": "6515-37-532-8412",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_22551_14_018.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "22551-14-018",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 116847_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 116847_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_instramed_ion_lcd_072024_io_11233.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "072024 IO 11233",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "50030031-2026-1C-00075-0-00-00",
+    "cad": "01/11/2027_ INOPERATIVO",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "7/2024 IF 4825"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6135-19-010-0274",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_autoclave_elect_21l_matachana_21e_e_15678.html",
+    "title": "AUTOCLAVE ELECT 21L MATACHANA 21E",
+    "serial": "E-15678",
+    "noc": "6530-33-005-0170",
+    "pmanto": "—",
+    "cad": "INUTIL",
+    "assigned": "Faltante_PCLA",
+    "uco": "",
+    "estado": "INUTIL",
+    "asignado_a": "Faltante_PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_respirador_weinmann_medumat_easy_cpr_wm_28_27372.html",
+    "title": "RESPIRADOR WEINMANN MEDUMAT EASY CPR WM 28140",
+    "serial": "27372",
+    "noc": "6515-12-395-5066",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "MANGUERA FLEXIBLE DE GAS COMPRIMIDO WEINMANN/ITC",
+        "noc": "4720-33-T14-8204",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "VALVULA PEEP REUTILIZABLE",
+        "noc": "6515-22-121-0881",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "TUBULADURA RESPIRATORIA RESPIRADOR MEDUMAD EASY",
+        "noc": "6515-12-405-3968",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "TORNILLERIA DE FIJACION PARA USO RESPIRADOR MEDUMAT",
+        "noc": "5305-12-389-1278",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MASCARILLA, BUCONASAL",
+        "noc": "6515-12-313-5597",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "FUNDA DE PROTECCION TUBULADURA RESPIRATORIA MEDUMAT",
+        "noc": "6515-12-404-0154",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PULMON DE SILICONA DE PRUEBA PARA RESPIRADOR",
+        "noc": "6515-12-419-6533",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "VALVULA RESPIRADOR PORT MEDUMAD EASY WM28000",
+        "noc": "6515-12-423-3438",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_desfibrilador_c_monitor_schiller_argus_pro_775_02720.html",
+    "title": "DESFIBRILADOR C/ MONITOR SCHILLER ARGUS PRO LIFE CARE 2",
+    "serial": "775.02720",
+    "noc": "6515-41-001-5300",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_006.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "AVJ-006",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5610.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "102022 IO 5610",
+    "noc": "6515-19-009-1910",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "AGREGADO A USBA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "AGREGADO A USBA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_ape146.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "APE146",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117868 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117868 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_monitor_const_vitales_propaq_cs_246_ga108313.html",
+    "title": "MONITOR CONST VITALES PROPAQ CS 246",
+    "serial": "GA108313",
+    "noc": "6515-01-569-6768",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_bye101ut.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "BYE101UT",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117722 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117722 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_bys004.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "BYS004",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117867 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117867 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_hersill_vitae40_53204_0149_nf.html",
+    "title": "RESPIRADOR PORTATIL HERSILL VITAE 40",
+    "serial": "53204-0149 NF",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5563",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "3",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "CABLE ALIMENTACION CONECTOR C13 RESPIRADOR HERSILL VITAE 40",
+        "noc": "6150-33-218-4272",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CIRCUITO PACIENTE VITAE 40 DESECHABLE ADULTO",
+        "noc": "6515-33-218-4302",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE ALIMENTACION PARA VITAE 40",
+        "noc": "6130-33-218-4271",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUNDA VITAE 40",
+        "noc": "8465-33-218-4279",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "KIT CAPNOGRAFIA IRMA CO2.VITAE 40",
+        "noc": "6630-33-218-4270",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUERA O2, TOMA DISS, 2M",
+        "noc": "6515-33-218-4278",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANUAL TECNICO VITAE 40",
+        "noc": "7610-33-218-4268",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 1",
+        "noc": "6515-33-218-4275",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 3",
+        "noc": "6515-33-218-4276",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 5",
+        "noc": "6515-33-218-4277",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOFTWARE VITAE 40",
+        "noc": "7030-33-218-4274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE PARED XG RESPIRADOR PORTATIL HERSILL VITAE 40",
+        "noc": "6515-33-218-4280",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "SOPORTE VITAE 40XG ORIENTABLE",
+        "noc": "6515-33-218-4284",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_ea4656.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "EA4656",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 116847 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 116847 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_45656_0192.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "45656-0192",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "NO PASA CTL POR BATERIA",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "NO PASA CTL",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_107.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "MWU 107",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123602 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123602 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_43200040.html",
+    "title": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
+    "serial": "43200040",
+    "noc": "4110-12-394-9772",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 116847_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 116847_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_monitor_const_vitales_ktmed_ktpm_1060_zb1200213.html",
+    "title": "MONITOR CONST VITALES KTMED KTPM-1060",
+    "serial": "ZB1200213",
+    "noc": "6515-37-532-8412",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_alz011.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "ALZ011",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_medumad_easy_6126.html",
+    "title": "RESPIRADOR PORT MEDUMAD EASY WM28000",
+    "serial": "6126",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "VALVULA PEEP REUTILIZABLE",
+        "noc": "6515-22-121-0881",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "TUBO RESPIRAT C/VALVULA PACIENTE REUTILIZABLE MEDUMAD EASY",
+        "noc": "6515-12-354-6017",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "6126"
+      },
+      {
+        "article": "MANGUERA FLEXIBLE DE GAS COMPRIMIDO WEINMANN/ITC",
+        "noc": "4720-33-T14-8204",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MASCARILLA, BUCONASAL",
+        "noc": "6515-12-313-5597",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PULMON DE SILICONA DE PRUEBA PARA RESPIRADOR",
+        "noc": "6515-12-419-6533",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_042.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "30574-41-042",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_3l_e62811.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 3L",
+    "serial": "E62811",
+    "noc": "8120-33-T12-2470",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_instramed_ion_lcd_072024_io_11227.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "072024 IO 11227",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "ET 106517_SVB",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "ET 106517_SVB",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "7/2024 IF 4819"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6140-19-009-1909",
+        "qty": "1",
+        "status": "INOPERATIVO",
+        "serial": "7/2024 BI 13562"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6140-19-009-1909",
+        "qty": "1",
+        "status": "INOPERATIVO",
+        "serial": "7/2024 BI 14470"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_mpo_005.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "MPO 005",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123602 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123602 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_062.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "MWU 062",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123610 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123610 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_mpm_141.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "MPM 141",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_instramed_ion_lcd_102022_io_5468.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "102022 IO 5468",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "50030031-2026-1C-00240-0-00-00",
+    "cad": "01/11/2027_INOPERATIVO",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "102022 IF 2559"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6135-19-010-0274",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_kxq023.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "KXQ023",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 106517 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 106517 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5471.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "102022 IO 5471",
+    "noc": "6515-19-009-1910",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "ET 117722_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117722_SVB",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "102022 IF 2562"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6135-19-010-0274",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_020.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "30574-41-020",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117722_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117722_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_bbi082.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "BBI082",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117868 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117868 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_312324.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "312324",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_schiller_argus_pro_lifecare2_77502857.html",
+    "title": "DESFIBRILADOR C/ MONITOR   SCHILLER ARGUS PRO LIFECARE 2",
+    "serial": "77502857",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": [
+      {
+        "article": "CABLE CONECTOR ALARGADOR SP O2 SCHILLER",
+        "noc": "6515-01-681-6751",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE SENSOR DE SP02, ADULTOS, 91.44 CM (2501)",
+        "noc": "6515-01-644-2880",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "ADAPTADOR PEDIATRICO PARA PALAS DESFIBRILACION ADULTO APLC2",
+        "noc": "6515-14-599-0169",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "MANGUITO PEDIATRICO BAUM DECORADO",
+        "noc": "6515-01-686-4603",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG AMBU WHITESENSOR (ENVASE 100 UNIDADES)",
+        "noc": "6515-22-614-5551",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE SENSOR IRMA CO2 SCHILLER",
+        "noc": "6150-17-121-3019",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE INTERFACE IRMA/ISA SCHILLER",
+        "noc": "6150-41-001-6744",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "BOQUILLA CAPNOGRAFIA IRMA CO2 CON ADAPTADOR ADUL/NIÑO",
+        "noc": "6515-14-569-2274",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PAPEL IMPRESORA DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-575-0902",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "MANGUITO ADULTO NIBP SCHILLER",
+        "noc": "6515-41-001-5969",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE TOMA DE TIERRA SCHILLER",
+        "noc": "6515-41-001-6745",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PETACA TEST DE DESCARGA SCHILLER",
+        "noc": "6515-41-002-7959",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "SONDA TEMPERATURA SCHILLER",
+        "noc": "6515-41-003-5758",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "SONDA TEMPERATURA SCHILLER",
+        "noc": "6515-41-003-5758",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE SCHILLER",
+        "noc": "6545-41-003-1927",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CARGADOR DE BATERIA CS-1 DESF. C/ MONITOR SCHILLER ARGUS PRO",
+        "noc": "6130-33-217-6313",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-556-1240",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE SONDA TEMP DESF C/ MONIT SCHILLER ARGUS PROLIFE CARE 2",
+        "noc": "6515-12-413-7109",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CONEXION MANGUITO NIBP SCHILLER",
+        "noc": "6515-41-001-6742",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-573-9411",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "SOPORTE DESFIBRILADOR SCHILLLER",
+        "noc": "5975-41-001-5320",
+        "serial": "77601725",
+        "qty": "",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE SENSOR SPCO, SPMET, SPO2 MASIMO RAINBOW 2696",
+        "noc": "6515-01-619-0719",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PALETAS EXTERIORES, PARA DESFIBRILADOR SCHILLER",
+        "noc": "6515-41-001-5321",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE DE PACIENTE CUATRO DERIVACIONES SCHILLER",
+        "noc": "6515-33-217-2119",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "EXTENSION DE ELECTRODOS 6 LATIGUILLOS TIPO CLIPS (SCHILLER)",
+        "noc": "6515-41-001-5966",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER",
+        "noc": "6130-41-001-5959",
+        "serial": "",
+        "qty": "2",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "FUENTE DE ALIMENTACION SCHILLER",
+        "noc": "6515-41-001-6720",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE RED FUENTE DE ALIMENTACION SCHILLER",
+        "noc": "6150-41-001-6741",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_bomba_infusion_intravenosa_alaris_7230_723_4017413.html",
+    "title": "BOMBA INFUSION INTRAVENOSA ALARIS 7230/7231",
+    "serial": "4017413",
+    "noc": "6515-01-452-1001",
+    "pmanto": "—",
+    "cad": "INUTIL",
+    "assigned": "Faltante_PCLA",
+    "uco": "",
+    "estado": "INUTIL",
+    "asignado_a": "Faltante_PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_schiller_argus_pro_lifecare2_775_02714.html",
+    "title": "DESFIBRILADOR C/ MONITOR   SCHILLER ARGUS PRO LIFECARE 2",
+    "serial": "775.02714",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "ADAPTADOR PEDIATRICO PARA PALAS DESFIBRILACION ADULTO APLC2",
+        "noc": "6515-14-599-0169",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR ARGUS PRO LIFE CARE 2",
+        "noc": "6140-41-004-9351",
+        "serial": "",
+        "qty": "2",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE SCHILLER",
+        "noc": "6545-41-003-1927",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BOQUILLA CAPNOGRAFIA IRMA CO2 CON ADAPTADOR ADUL/NIÑO",
+        "noc": "6515-14-569-2274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE CONECTOR ALARGADOR SP O2 SCHILLER",
+        "noc": "6515-01-681-6751",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE DE PACIENTE CUATRO DERIVACIONES SCHILLER",
+        "noc": "6515-33-217-2119",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE INTERFACE IRMA/ISA SCHILLER",
+        "noc": "6150-41-001-6744",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE RED FUENTE DE ALIMENTACION SCHILLER",
+        "noc": "6150-41-001-6741",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SENSOR DE SP02, ADULTOS, 91.44 CM (2501)",
+        "noc": "6515-01-644-2880",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SENSOR IRMA CO2 SCHILLER",
+        "noc": "6150-17-121-3019",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SENSOR SPCO, SPMET, SPO2 MASIMO RAINBOW 2696",
+        "noc": "6515-01-619-0719",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SONDA TEMP DESF C/ MONIT SCHILLER ARGUS PROLIFE CARE 2",
+        "noc": "6515-12-413-7109",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE TOMA DE TIERRA SCHILLER",
+        "noc": "6515-41-001-6745",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CARGADOR DE BATERIA CS-1 DESF. C/ MONITOR SCHILLER ARGUS PRO",
+        "noc": "6130-33-217-6313",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "CONEXION MANGUITO NIBP SCHILLER",
+        "noc": "6515-41-001-6742",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "EXTENSION DE ELECTRODOS 6 LATIGUILLOS TIPO CLIPS (SCHILLER)",
+        "noc": "6515-41-001-5966",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE DE ALIMENTACION SCHILLER",
+        "noc": "6515-41-001-6720",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUITO ADULTO NIBP SCHILLER",
+        "noc": "6515-41-001-5969",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUITO PEDIATRICO BAUM DECORADO",
+        "noc": "6515-01-686-4603",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PALETAS EXTERIORES, PARA DESFIBRILADOR SCHILLER",
+        "noc": "6515-41-001-5321",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PAPEL IMPRESORA DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-575-0902",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-573-9411",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-556-1240",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PETACA TEST DE DESCARGA SCHILLER",
+        "noc": "6515-41-002-7959",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SONDA TEMPERATURA SCHILLER",
+        "noc": "6515-41-003-5758",
+        "serial": "",
+        "qty": "2",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE DESFIBRILADOR SCHILLLER",
+        "noc": "5975-41-001-5320",
+        "serial": "77600457",
+        "qty": "",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_tku035.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "TKU035",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_hersill_vitae40.html",
+    "title": "RESPIRADOR PORTATIL HERSILL VITAE 40",
+    "serial": "53204-0097 NF",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5563",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "2",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "2",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "CABLE ALIMENTACION CONECTOR C13 RESPIRADOR HERSILL VITAE 40",
+        "noc": "6150-33-218-4272",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CIRCUITO PACIENTE VITAE 40 DESECHABLE ADULTO",
+        "noc": "6515-33-218-4302",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE ALIMENTACION PARA VITAE 40",
+        "noc": "6130-33-218-4271",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUNDA VITAE 40",
+        "noc": "8465-33-218-4279",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "KIT CAPNOGRAFIA IRMA CO2.VITAE 40",
+        "noc": "6630-33-218-4270",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUERA O2, TOMA DISS, 2M",
+        "noc": "6515-33-218-4278",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANUAL TECNICO VITAE 40",
+        "noc": "7610-33-218-4268",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 1",
+        "noc": "6515-33-218-4275",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 3",
+        "noc": "6515-33-218-4276",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 5",
+        "noc": "6515-33-218-4277",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOFTWARE VITAE 40",
+        "noc": "7030-33-218-4274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE PARED XG RESPIRADOR PORTATIL HERSILL VITAE 40",
+        "noc": "6515-33-218-4280",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE VITAE 40XG ORIENTABLE",
+        "noc": "6515-33-218-4284",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_desfibrilador_schiller_fred_easyport_plus__9000_001105.html",
+    "title": "DESFIBRILADOR SCHILLER FRED EASYPORT PLUS MANUAL",
+    "serial": "9000.001105",
+    "noc": "6515-14-602-0550",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER FRED EASYPORT",
+        "noc": "6140-33-218-4510",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "ADAPTADOR CARGADOR CS-2 PARA DESF. SCHILLER FRED EASYPORT",
+        "noc": "6130-33-218-4509",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "H9461000067"
+      },
+      {
+        "article": "CARGADOR DE BATERIA CS-2 (8H3B499) DESF SCHILLER FRED",
+        "noc": "6130-33-218-4508",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-556-1240",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER VARIOS",
+        "noc": "6515-14-556-1239",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "RASURADORA",
+        "noc": "6515-12-416-2426",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "TIJERA VENDAJE UNIVERSAL 16 CM",
+        "noc": "6515-33-004-3593",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
+        "noc": "6530-14-556-1271",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_05010426.html",
+    "title": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
+    "serial": "05010426",
+    "noc": "4110-12-394-9772",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_da157.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "DA157",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_respirador_port_medumad_easy_wm28000_6006.html",
+    "title": "RESPIRADOR PORT MEDUMAD EASY WM28000",
+    "serial": "6006",
+    "noc": "6515-33-T10-2131",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "VALVULA PEEP DESECHABLE",
+        "noc": "6515-12-389-7179",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "TUBULADURA RESPIRATORIA RESPIRADOR MEDUMAD EASY",
+        "noc": "6515-12-405-3968",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PULMON DE SILICONA DE PRUEBA PARA RESPIRADOR",
+        "noc": "6515-12-419-6533",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MASCARILLA, BUCONASAL",
+        "noc": "6515-12-313-5597",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MANGUERA FLEXIBLE DE GAS COMPRIMIDO WEINMANN/ITC",
+        "noc": "4720-33-T14-8204",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_113.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "MWU 113",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123602 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123602 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_tku010.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "TKU010",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117722 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117722 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_63924_0066.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "63924-0066",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+        "noc": "6515-33-203-5933",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "63924-0066"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_08018231.html",
+    "title": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
+    "serial": "08018231",
+    "noc": "4110-12-394-9772",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 106517_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 106517_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_hersill_vitae40_53109_0133.html",
+    "title": "RESPIRADOR PORTATIL HERSILL VITAE 40",
+    "serial": "53109-0133",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "INOPERATIVO E32 // JUN26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5563",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "4",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE ALIMENTACION CONECTOR C13 RESPIRADOR HERSILL VITAE 40",
+        "noc": "6150-33-218-4272",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CIRCUITO PACIENTE VITAE 40 DESECHABLE ADULTO",
+        "noc": "6515-33-218-4302",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE ALIMENTACION PARA VITAE 40",
+        "noc": "6130-33-218-4271",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUNDA VITAE 40",
+        "noc": "8465-33-218-4279",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "KIT CAPNOGRAFIA IRMA CO2.VITAE 40",
+        "noc": "6630-33-218-4270",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUERA O2, TOMA DISS, 2M",
+        "noc": "6515-33-218-4278",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANUAL TECNICO VITAE 40",
+        "noc": "7610-33-218-4268",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 1",
+        "noc": "6515-33-218-4275",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 3",
+        "noc": "6515-33-218-4276",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 5",
+        "noc": "6515-33-218-4277",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOFTWARE VITAE 40",
+        "noc": "7030-33-218-4274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE PARED XG RESPIRADOR PORTATIL HERSILL VITAE 40",
+        "noc": "6515-33-218-4280",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE VITAE 40XG ORIENTABLE",
+        "noc": "6515-33-218-4284",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_mnz_008.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "MNZ 008",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_schiller_argus_pro_lifecare2_775_01004.html",
+    "title": "DESFIBRILADOR C/ MONITOR   SCHILLER ARGUS PRO LIFECARE 2",
+    "serial": "775.01004",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "ADAPTADOR PEDIATRICO PARA PALAS DESFIBRILACION ADULTO APLC2",
+        "noc": "6515-14-599-0169",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER",
+        "noc": "6130-41-001-5959",
+        "serial": "",
+        "qty": "2",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE SCHILLER",
+        "noc": "6545-41-003-1927",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BOQUILLA CAPNOGRAFIA IRMA CO2 CON ADAPTADOR ADUL/NIÑO",
+        "noc": "6515-14-569-2274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE CONECTOR ALARGADOR SP O2 SCHILLER",
+        "noc": "6515-01-681-6751",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE DE PACIENTE CUATRO DERIVACIONES SCHILLER",
+        "noc": "6515-33-217-2119",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE INTERFACE IRMA/ISA SCHILLER",
+        "noc": "6150-41-001-6744",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE RED FUENTE DE ALIMENTACION SCHILLER",
+        "noc": "6150-41-001-6741",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SENSOR IRMA CO2 SCHILLER",
+        "noc": "6150-17-121-3019",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SENSOR SPCO, SPMET, SPO2 MASIMO RAINBOW 2696",
+        "noc": "6515-01-619-0719",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SENSOR SPCO, SPMET, SPO2 MASIMO RAINBOW 2696",
+        "noc": "6515-01-619-0719",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE SONDA TEMP DESF C/ MONIT SCHILLER ARGUS PROLIFE CARE 2",
+        "noc": "6515-12-413-7109",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE TOMA DE TIERRA SCHILLER",
+        "noc": "6515-41-001-6745",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CARGADOR DE BATERIA CS-1 DESF. C/ MONITOR SCHILLER ARGUS PRO",
+        "noc": "6130-33-217-6313",
+        "serial": "76801088",
+        "qty": "",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CONEXION MANGUITO NIBP SCHILLER",
+        "noc": "6515-41-001-6742",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "EXTENSION DE ELECTRODOS 6 LATIGUILLOS TIPO CLIPS (SCHILLER)",
+        "noc": "6515-41-001-5966",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE DE ALIMENTACION SCHILLER",
+        "noc": "6515-41-001-6720",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUITO ADULTO NIBP SCHILLER",
+        "noc": "6515-41-001-5969",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUITO PEDIATRICO BAUM DECORADO",
+        "noc": "6515-01-686-4603",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "PALETAS EXTERIORES, PARA DESFIBRILADOR SCHILLER",
+        "noc": "6515-41-001-5321",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PAPEL IMPRESORA DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-575-0902",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER VARIOS MOD",
+        "noc": "6515-14-556-1239",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-556-1240",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "PETACA TEST DE DESCARGA SCHILLER",
+        "noc": "6515-41-002-7959",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SONDA TEMPERATURA SCHILLER",
+        "noc": "6515-41-003-5758",
+        "serial": "",
+        "qty": "2",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE DESFIBRILADOR SCHILLLER",
+        "noc": "5975-41-001-5320",
+        "serial": "77600456",
+        "qty": "",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_monitor_const_vitales_ktmed_ktpm_1060_za1460354.html",
+    "title": "MONITOR CONST VITALES KTMED KTPM-1060",
+    "serial": "ZA1460354",
+    "noc": "6515-37-532-8412",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_monitor_const_vitales_physiogard_touch_7_128950000792.html",
+    "title": "MONITOR CONST VITALES PHYSIOGARD TOUCH 7",
+    "serial": "128950000792",
+    "noc": "6515-33-218-3095",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "BRAZALETE ESFIGMOMANOMETRO PARA ADULTO",
+        "noc": "6515-14-601-5306",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE ECG MONITOR CONSTANTES VITALES PHYSIOGARD TOUCH 7",
+        "noc": "6515-14-601-5372",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE MONITOR CONST VITALES PHYSIOGARD",
+        "noc": "6545-14-601-5330",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR BATERIA MONITOR CONSTANTES VITALES PHYSIOGARD TOUCH 7",
+        "noc": "6130-14-601-5365",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "SOPORTE AMBUL CON CARG AC/DC MONITOR CONST VIT PHYSIOGARD",
+        "noc": "5975-14-601-5367",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "SONDA TEMPERATURA SCHILLER",
+        "noc": "6515-41-003-5758",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE CONEXION IBP BRAUN",
+        "noc": "6145-41-001-5961",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE SENSOR SPCO, SPMET, SPO2 MASIMO RAINBOW 2696",
+        "noc": "6515-01-619-0719",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER",
+        "noc": "6130-41-001-5959",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE PACIENTE MASIMO M-LNCS 1M EMS (4485)",
+        "noc": "6515-01-692-8156",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MANGUITO CON CONECTOR EN ANGULO",
+        "noc": "6515-14-601-5344",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "EXTENSION DE ELECTRODOS 6 LATIGUILLOS TIPO CLIPS (SCHILLER)",
+        "noc": "6515-41-001-5966",
+        "qty": "1",
+        "status": "AUSENTE",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_oximetro_de_pulso_rad_67_5000012033.html",
+    "title": "OXIMETRO DE PULSO RAD-67",
+    "serial": "5000012033",
+    "noc": "6515-14-602-5186",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_electrobisturi_led_spa_surtron_touch_hp400_537_0270414.html",
+    "title": "ELECTROBISTURI LED SPA SURTRON TOUCH HP400",
+    "serial": "537 0270414",
+    "noc": "6545-33-T14-9524",
+    "pmanto": "50030031-2025-1C-01154-0-00-00",
+    "cad": "NO TIENE_INOPERATIVO",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "ELECTROBISTURI LED SPA SURTRON TOUCH HP400",
+        "noc": "6545-33-T14-9524",
+        "qty": "1",
+        "status": "INOPERATIVO",
+        "serial": "537 0270414"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_instramed_ion_lcd_072024_io_11525.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "072024 IO 11525",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "7/2024 IF 5117"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6140-19-009-1909",
+        "qty": "1",
+        "status": "INOPERATIVO",
+        "serial": "72024 BI 13860"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6140-19-009-1909",
+        "qty": "1",
+        "status": "INOPERATIVO",
+        "serial": "72024 BI 14244"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_mjl_133.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "MJL 133",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123602 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123602 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_kxq171.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "KXQ171",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117867 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117867 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_oximetro_capnografo_microcap_plus_mp1104178.html",
+    "title": "OXIMETRO CAPNOGRAFO MICROCAP PLUS",
+    "serial": "MP1104178",
+    "noc": "6515-33-T10-3880",
+    "pmanto": "—",
+    "cad": "INUTIL",
+    "assigned": "Faltante_ET 117868_SVA",
+    "uco": "",
+    "estado": "INUTIL",
+    "asignado_a": "Faltante_ET 117868_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_dac026.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "DAC026",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_63924_0091.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "63924-0091",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123610_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123610_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_aut_schiller_fred_easyport_900_11493.html",
+    "title": "DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
+    "serial": "900.11493",
+    "noc": "6515-14-556-1439",
+    "pmanto": "—",
+    "cad": "ene-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_protoxido_37_5kg_13294499.html",
+    "title": "BOTELLA PROTOXIDO 37,5KG",
+    "serial": "13294499",
+    "noc": "8120-33-003-5451",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_oximetro_capnografo_microcap_plus_mp1002741.html",
+    "title": "OXIMETRO CAPNOGRAFO MICROCAP PLUS",
+    "serial": "MP1002741",
+    "noc": "6515-33-T10-3880",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_bomba_infusion_intravenosa_hospira_90002_4073.html",
+    "title": "BOMBA INFUSION INTRAVENOSA (HOSPIRA)",
+    "serial": "90002-4073",
+    "noc": "6515-01-549-3588",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_aut_schiller_fred_easyport_900_13847.html",
+    "title": "DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
+    "serial": "900.13847",
+    "noc": "6515-14-556-1439",
+    "pmanto": "—",
+    "cad": "ene-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "DESFIBRILADOR AUT SCHILLER FRED EASYPORT SIN ACCESORIOS",
+        "noc": "6515-33-T13-3145",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "900.13847"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR SCHILLER FRED EASYPORT",
+        "noc": "6135-14-556-1435",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
+        "noc": "6530-14-556-1271",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-573-9411",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_fx106.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "FX106",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 106517 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 106517 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_instramed_i_on_lcd_082023_io_8297.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "082023 IO 8297",
+    "noc": "6515-19-009-1910",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "082033 IF 3838"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6135-19-010-0274",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5497.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "102022 IO 5497",
+    "noc": "6515-19-009-1910",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "ET 116847_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 116847_SVB",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "102022 IF 2588"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6135-19-010-0274",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_70430_0010.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "70430-0010",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "mar-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_physio_lifepak12_37605171.html",
+    "title": "DESFIBRILADOR C/ MONITOR PHYSIO LIFEPAK 12",
+    "serial": "37605171",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "INUTIL",
+    "assigned": "Faltante_PCLA",
+    "uco": "",
+    "estado": "INUTIL",
+    "asignado_a": "Faltante_PCLA",
+    "componentes": [
+      {
+        "article": "MANGUITO PNI LIFEPACK 12",
+        "noc": "6515-01-632-1529",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "TUBO CONEXION MANGUITO PNI LIFEPACK 12",
+        "noc": "6515-01-624-7397",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "BASE REDI CHARGE BATERIA LIFEPAK 12",
+        "noc": "6130-01-624-8118",
+        "serial": "",
+        "qty": "1",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "BATERIA RECARGABLE IONLI DESFIBRILADOR LIFEPAK 12",
+        "noc": "6140-01-624-9846",
+        "serial": "",
+        "qty": "2",
+        "status": "AUSENTE"
+      },
+      {
+        "article": "ADAPTADOR DE CORRIENTE DESFIBRILADOR PHYSIO LIFEPAK 12",
+        "noc": "6130-01-641-6568",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "BATERIA RECARGABLE NICD DESFIBRILADOR LIFEPAK 12",
+        "noc": "6140-01-595-2493",
+        "serial": "",
+        "qty": "2",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PALETAS EXTERIORES, PARA DESFIBRILADOR LIFEPAK 12",
+        "noc": "6515-01-578-6188",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE TRONCAL ECG 12/4 DERIVACIONES LIFE PACK 12",
+        "noc": "6515-01-641-6528",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "ACOPLAMIENTO CABLE ECG 6 DERIVACIONES LIFEPACK 12",
+        "noc": "6515-01-458-6221",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE SPO2 LIFEPAK 12",
+        "noc": "6515-01-641-6537",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE UNICO ECG 5 DERIVACIONES LIFEPACK 12",
+        "noc": "6515-01-608-8163",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "PETACA QUIK-COMBO LIFEPACK 12",
+        "noc": "6515-01-458-7933",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      },
+      {
+        "article": "CABLE DESFIBRILADOR QUIK-COMBO LIFEPACK 12",
+        "noc": "6515-01-478-8996",
+        "serial": "",
+        "qty": "1",
+        "status": "OPERATIVO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_boscarol_ob2012_10200512107.html",
+    "title": "ASPIRADOR SECRECION BOSCAROL OB2012",
+    "serial": "10200512107",
+    "noc": "6515-15-206-3124",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 106517_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 106517_SVB",
+    "componentes": [
+      {
+        "article": "ASPIRADOR SECRECION BOSCAROL OB2012",
+        "noc": "6515-15-206-3124",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "10200512107"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_nevera_portatil_tropicool_bordbar_tb08_31400175.html",
+    "title": "NEVERA PORTATIL TROPICOOL BORDBAR TB08",
+    "serial": "31400175",
+    "noc": "4110-12-421-3899",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "NEVERA PORTATIL TROPICOOL BORDBAR TB08",
+        "noc": "4110-12-421-3899",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "31400175"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_draguer_oxylog2000plus_asfa_0043.html",
+    "title": "RESPIRADOR PORT DRAGUER OXYLOG 2000 PLUS",
+    "serial": "ASFA-0043",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_con_monitor_zoll_x_series_ar22h069469.html",
+    "title": "DESFIBRILADOR CON MONITOR ZOLL X SERIES",
+    "serial": "AR22H069469",
+    "noc": "6515-01-669-6108",
+    "pmanto": "—",
+    "cad": "dic-27",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "CABLE SENSOR SPCO, SPMET, SPO2 MASIMO RAINBOW 2696",
+        "noc": "6515-01-619-0719",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE SENSOR DE SPO2, ADULTOS, 91.44 CM (2501)",
+        "noc": "6515-01-644-2880",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "ADAPTADOR DE CORRIENTE AC/CARGADOR, 120-240 V",
+        "noc": "6130-01-601-1388",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR ZOLL SUREPOWER II",
+        "noc": "6140-01-601-1377",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "AJ22GAS5333"
+      },
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR ZOLL SUREPOWER II",
+        "noc": "6140-01-601-1377",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "AJ22GAS6399"
+      },
+      {
+        "article": "CABLE ALIMENTACION DESFIBRILADOR CON MONITOR ZOLL X SERIES",
+        "noc": "6150-01-615-0623",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "ADAPTADOR DE CORRIENTE CARGADOR DESFIBRILADOR ZOLL X SERIES",
+        "noc": "6150-01-700-5567",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR ZOLL",
+        "noc": "6515-01-538-2101",
+        "qty": "6",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR ZOLL PEDI-PAD",
+        "noc": "6515-01-519-6135",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE DE PACIENTE RC-12 (2404)",
+        "noc": "6515-01-590-8633",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MANGUITO NIBP ADULTO Y PEDIATRICOS LIBRE DE LATEX",
+        "noc": "6515-01-600-4086",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "MANGUITO NIBP ADULTO Y PEDIATRICO",
+        "noc": "6515-01-607-4332",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PAPEL TERMICO DE REGISTRO RECONOCIMIENTO, ROLLO 80MM",
+        "noc": "6515-01-628-6597",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "YSI SONDA ESOFAGO/RECTAL ADULTO",
+        "noc": "6515-01-641-1671",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "FILTERLINE SET ADULTO/PEDIATRICO PARA PACIENTES INTUBADOS",
+        "noc": "6515-01-642-5064",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "GEL ELECTRODO DE DESFIBRILADOR",
+        "noc": "6515-01-646-7555",
+        "qty": "10",
+        "status": "OPERATIVO CONDICIONAL",
+        "serial": ""
+      },
+      {
+        "article": "CABLE TRONCAL 4 DERIVACIONES",
+        "noc": "6515-01-655-0317",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE PRECORDIAL 6 DERIVACIONES",
+        "noc": "6515-01-655-0357",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BOLSA TRANSPORTE DESFIBRILADOR ZOLL X SERIES",
+        "noc": "6515-01-662-3163",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "SOPORTE DE ANCLAJE A VEHICULO",
+        "noc": "6515-12-397-8991",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "119822236"
+      },
+      {
+        "article": "CONJUNTO DE PALAS EXTERNAS CON CONTROLES",
+        "noc": "6515-99-371-0880",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "U21J050973"
+      },
+      {
+        "article": "CONJUNTO DE PALAS EXTERNAS CON CONTROLES",
+        "noc": "6515-99-371-0880",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "U21K052027"
+      },
+      {
+        "article": "MANUAL TECNICO DESFIBRILADOR ZOLL X SERIES",
+        "noc": "7610-01-700-7202",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_calentador_de_suero_animec_am_301_2014d0760.html",
+    "title": "CALENTADOR DE SUERO ANIMEC AM-301",
+    "serial": "2014D0760",
+    "noc": "6530-37-528-8879",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_calentador_de_suero_animec_am_301_2013d0055.html",
+    "title": "CALENTADOR DE SUERO ANIMEC AM-301",
+    "serial": "2013D0055",
+    "noc": "6530-37-528-8879",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_011.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "AVJ-011",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_schiller_fred_easyport_plus_9000_001039.html",
+    "title": "DESFIBRILADOR SCHILLER FRED EASYPORT PLUS   MANUAL",
+    "serial": "9000.001039",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 123610_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123610_SVB",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER FRED EASYPORT",
+        "noc": "6140-33-218-4510",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "ADAPTADOR CARGADOR CS-2 PARA DESF. SCHILLER FRED EASYPORT",
+        "noc": "6130-33-218-4509",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "H0351000055"
+      },
+      {
+        "article": "CARGADOR DE BATERIA CS-2 (8H3B499) DESF SCHILLER FRED",
+        "noc": "6130-33-218-4508",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR SCHILLER",
+        "noc": "6515-14-556-1240",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR SCHILLER VARIOS",
+        "noc": "6515-14-556-1239",
+        "qty": "4",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "RASURADORA",
+        "noc": "6515-12-416-2426",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "TIJERA VENDAJE UNIVERSAL 16 CM",
+        "noc": "6515-33-004-3593",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BOLSA DE TRANSPORTE DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
+        "noc": "6530-14-556-1271",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_mlf_104.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "MLF 104",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123610 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123610 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_ambu_matic_22622723.html",
+    "title": "RESPIRADOR NEUMATICO AMBU MATIC",
+    "serial": "22622723",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "INUTIL",
+    "assigned": "Faltante_PCLA",
+    "uco": "",
+    "estado": "INUTIL",
+    "asignado_a": "Faltante_PCLA",
+    "componentes": [
+      {
+        "article": "MANGUERA OXIGENO, ALIMENTACION AMBUMATIC",
+        "noc": "6515-22-000-0000",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "TUBO PACIENTE RESPIRADOR NEUMATICO AMBUMATIC",
+        "noc": "6515-22-000-0000",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "VALVULA PEEP REUTILIZABLE",
+        "noc": "6515-22-000-0000",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "VALVULA, REANIMADOR AMBUMATIC",
+        "noc": "6515-22-000-0000",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_vxg140.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "VXG140",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 116847 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 116847 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_respirador_port_draguer_oxylog_2000_plus_asha_0020.html",
+    "title": "RESPIRADOR PORT DRAGUER OXYLOG 2000 PLUS",
+    "serial": "ASHA-0020",
+    "noc": "6515-12-379-5424",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_5l_mjl_069.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 5L",
+    "serial": "MJL 069",
+    "noc": "8120-33-108-1861",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123610 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123610 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_calentador_de_suero_animec_am_301_2014d0770.html",
+    "title": "CALENTADOR DE SUERO ANIMEC AM-301",
+    "serial": "2014D0770",
+    "noc": "6530-37-528-8879",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "CALENTADOR DE SUERO ANIMEC AM-301",
+        "noc": "6530-37-528-8879",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "2014D0770"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_apu_156.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "APU-156",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 116847 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 116847 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_50l_100927.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 50L",
+    "serial": "100927",
+    "noc": "8120-33-003-5452",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "PCLA VII",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "PCLA VII",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_calentador_de_suero_animec_am_301_2015d0485.html",
+    "title": "CALENTADOR DE SUERO ANIMEC AM-301",
+    "serial": "2015D0485",
+    "noc": "6530-37-528-8879",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_010.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "AVJ-010",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_nevera_portatil_tropicool_bordbar_tb08_31400172.html",
+    "title": "NEVERA PORTATIL TROPICOOL BORDBAR TB08",
+    "serial": "31400172",
+    "noc": "4110-12-421-3899",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123610_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123610_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_draguer_oxylog2000plus_ashl_0122.html",
+    "title": "RESPIRADOR PORT DRAGUER OXYLOG 2000 PLUS",
+    "serial": "ASHL-0122",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_hersill_vitae40_67354_0042.html",
+    "title": "RESPIRADOR PORTATIL HERSILL VITAE 40",
+    "serial": "67354-0042",
+    "noc": ":before{content:\"NOC\"}",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "INOPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5563",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "BATERIA RECARGABLE RESPIRADOR VITAE 40",
+        "noc": "6140-33-219-5552",
+        "serial": "",
+        "qty": "4",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CABLE ALIMENTACION CONECTOR C13 RESPIRADOR HERSILL VITAE 40",
+        "noc": "6150-33-218-4272",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "CIRCUITO PACIENTE VITAE 40 DESECHABLE ADULTO",
+        "noc": "6515-33-218-4302",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUENTE ALIMENTACION PARA VITAE 40",
+        "noc": "6130-33-218-4271",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "FUNDA VITAE 40",
+        "noc": "8465-33-218-4279",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "KIT CAPNOGRAFIA IRMA CO2.VITAE 40",
+        "noc": "6630-33-218-4270",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANGUERA O2, TOMA DISS, 2M",
+        "noc": "6515-33-218-4278",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MANUAL TECNICO VITAE 40",
+        "noc": "7610-33-218-4268",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 1",
+        "noc": "6515-33-218-4275",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 3",
+        "noc": "6515-33-218-4276",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "MASCARILLA RESUCITACION SILICONA Nº 5",
+        "noc": "6515-33-218-4277",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOFTWARE VITAE 40",
+        "noc": "7030-33-218-4274",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE PARED XG RESPIRADOR PORTATIL HERSILL VITAE 40",
+        "noc": "6515-33-218-4280",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      },
+      {
+        "article": "SOPORTE VITAE 40XG ORIENTABLE",
+        "noc": "6515-33-218-4284",
+        "serial": "",
+        "qty": "1",
+        "status": "MONTADO"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_ecografo_vscan_extend_dual_probe_vh2679385g.html",
+    "title": "ECOGRAFO VSCAN EXTEND DUAL PROBE",
+    "serial": "VH2679385G",
+    "noc": "6525-25-162-7048",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "BATERIA RECARGABLE ECOGRAFO VSCAN EXTEND DUAL PROBE",
+        "noc": "6140-33-219-1311",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "AC/DC ADAPTADOR ECOGRAFO VSCAN EXTEND DUAL PROBE",
+        "noc": "6515-33-219-1011",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_013.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "AVJ-013",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_11026363.html",
+    "title": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
+    "serial": "11026363",
+    "noc": "4110-12-394-9772",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_068.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "MWU 068",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 123610 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 123610 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_mnz_150.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "MNZ 150",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117867 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117867 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_10l_amv_016.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 10L",
+    "serial": "AMV-016",
+    "noc": "8120-33-003-5432",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117867 SVA",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117867 SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_032.html",
+    "title": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
+    "serial": "30574-41-032",
+    "noc": "6515-33-203-5933",
+    "pmanto": "—",
+    "cad": "oct-26",
+    "assigned": "PCLA_MONTADO",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA_MONTADO",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_bomba_de_infusion_medima_1_via_p300_310028479.html",
+    "title": "BOMBA DE INFUSION MEDIMA 1 VIA P300",
+    "serial": "310028479",
+    "noc": "6515-43-002-4951",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 123602_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 123602_SVA",
+    "componentes": [
+      {
+        "article": "SISTEMA INFUSION BASICO MEDIMA 08110000",
+        "noc": "6515-43-002-7096",
+        "qty": "3",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "SISTEMA INFUSION FOTOPROTEGIDO MEDIMA 08110100",
+        "noc": "6515-43-002-7097",
+        "qty": "3",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "SENSOR DE GOTAS BOMBA DE INFUSION INTRAVENOSA P300",
+        "noc": "6515-43-002-7098",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CABLE ALIMENTACION BOMBA INFUSION P300",
+        "noc": "6150-33-219-6821",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "BATERIA RECARGABLE BOMBA INFUSION MEDIMA P300",
+        "noc": "6140-43-002-7095",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "01832246"
+      },
+      {
+        "article": "BATERIA RECARGABLE BOMBA INFUSION MEDIMA P300",
+        "noc": "6140-43-002-7095",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "01923743"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_bomba_infusion_intravenosa_hospira_30019_7531.html",
+    "title": "BOMBA INFUSION INTRAVENOSA (HOSPIRA)",
+    "serial": "30019-7531",
+    "noc": "6515-01-549-3588",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117867_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117867_SVA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_6_7l_240695.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 6,7L",
+    "serial": "240695",
+    "noc": "8120-33-T12-2474",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 117722 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 117722 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_bomba_infusion_intravenosa_hospira_90001_1321.html",
+    "title": "BOMBA INFUSION INTRAVENOSA (HOSPIRA)",
+    "serial": "90001-1321",
+    "noc": "6515-01-549-3588",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_014.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 7,5L",
+    "serial": "AVJ-014",
+    "noc": "8120-33-212-4724",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ALMACEN",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ALMACEN",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_10025787.html",
+    "title": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
+    "serial": "10025787",
+    "noc": "4110-12-394-9772",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "ET 117722_SVB",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117722_SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_aspirador_secrecion_port_hersill_v7m_18420_07_038.html",
+    "title": "ASPIRADOR SECRECION PORT HERSILL V7M",
+    "serial": "18420-07-038",
+    "noc": "6515-33-204-3827",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": [
+      {
+        "article": "ASPIRADOR SECRECION PORT HERSILL V7M",
+        "noc": "6515-33-204-3827",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "18420-07-038"
+      }
+    ]
+  },
+  {
+    "filename": "ficha_autoclave_elect_9l_prestige_210001_pj19014.html",
+    "title": "AUTOCLAVE ELECT 9L PRESTIGE 210001",
+    "serial": "PJ19014",
+    "noc": "6530-99-598-6296",
+    "pmanto": "—",
+    "cad": "may-27",
+    "assigned": "PCLA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "PCLA",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_botella_oxigeno_medicinal_2l_bwu095ut.html",
+    "title": "BOTELLA OXIGENO MEDICINAL 2L",
+    "serial": "BWU095UT",
+    "noc": "8120-33-003-5418",
+    "pmanto": "",
+    "cad": "",
+    "assigned": "ET 106517 SVB",
+    "uco": "GL VII",
+    "estado": "—",
+    "asignado_a": "ET 106517 SVB",
+    "componentes": []
+  },
+  {
+    "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5454.html",
+    "title": "DESFIBRILADOR INSTRAMED I.ON LCD",
+    "serial": "102022 IO 5454",
+    "noc": "6515-19-009-1910",
+    "pmanto": "—",
+    "cad": "nov-27",
+    "assigned": "ET 117868_SVA",
+    "uco": "",
+    "estado": "OPERATIVO",
+    "asignado_a": "ET 117868_SVA",
+    "componentes": [
+      {
+        "article": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9341",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO ECG FIAB F9089/100 (ENVASE 100 UNIDADES)",
+        "noc": "6515-15-031-9339",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "PARCHE ELECTRODO PEDIATRICO DESFIBRILADOR INSTRAMED",
+        "noc": "6515-15-031-9312",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": ""
+      },
+      {
+        "article": "CARGADOR DE BATERIA CON CABLE PARA DESF. INSTRAMED I.ON",
+        "noc": "6130-19-009-1908",
+        "qty": "1",
+        "status": "OPERATIVO",
+        "serial": "102022 IF 2545"
+      },
+      {
+        "article": "BATERIA NO RECARGABLE DESFIBRILADOR INSTRAMED I.ON LED / LCD",
+        "noc": "6135-19-010-0274",
+        "qty": "2",
+        "status": "OPERATIVO",
+        "serial": ""
+      }
+    ]
+  }
+]
