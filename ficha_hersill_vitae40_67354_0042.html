@@ -168,6 +168,45 @@ tbody tr:hover{background:#fafcff}
   .article{font-size:15px;margin-bottom:3px}
   .noc{white-space:normal}
 }
+
+.meta-grid{
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;margin-top:14px
+}
+.meta-box{
+  background:rgba(255,255,255,.10);
+  border:1px solid rgba(255,255,255,.22);
+  border-radius:10px;padding:10px 12px
+}
+.meta-label{
+  font-size:11px;font-weight:800;letter-spacing:.5px;
+  text-transform:uppercase;opacity:.78
+}
+.meta-value{
+  margin-top:4px;font-size:15px;font-weight:800;word-break:break-word
+}
+.meta-value.alert{color:#ffd4d4}
+@media(max-width:700px){
+  .meta-grid{grid-template-columns:1fr}
+}
+
+
+.maint-grid{
+  display:grid;grid-template-columns:1.35fr .8fr .6fr 1.8fr;
+  gap:10px;margin-top:12px
+}
+.maint-box{
+  background:#fff;border:1px solid #d0d5dd;border-radius:10px;padding:10px 12px
+}
+.maint-label{
+  font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:#667085
+}
+.maint-value{
+  margin-top:4px;font-size:14px;font-weight:800;color:#1d2939;word-break:break-word
+}
+.maint-value.status{color:#b42318}
+@media(max-width:800px){.maint-grid{grid-template-columns:1fr}}
+
 </style>
 </head>
 <body>
@@ -176,7 +215,18 @@ tbody tr:hover{background:#fafcff}
     <a class="back" href="index.html">← Volver a ELECTROMEDICINA</a>
     <h1 class="title">RESPIRADOR PORTATIL HERSILL VITAE 40</h1>
     <div class="idrow"><div class="identifier">67354-0042</div><div class="expiry">FCH CAD CTL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div>
+<div class="meta-grid">
+  <div class="meta-box"><div class="meta-label">PMANTO</div><div class="meta-value">50030031-2026-1P-00803-0-00-00</div></div>
+  <div class="meta-box"><div class="meta-label">FCH CAD CTL</div><div class="meta-value ">oct-26</div></div>
+  <div class="meta-box"><div class="meta-label">PERTENENCIA</div><div class="meta-value">ET 117868_SVA</div></div>
+</div>
   </div>
+<div class="maint-grid">
+  <div class="maint-box"><div class="maint-label">PMANTO</div><div class="maint-value">50030031-2026-1P-00803-0-00-00</div></div>
+  <div class="maint-box"><div class="maint-label">DIAS EN MANTO</div><div class="maint-value"><span class="dias-manto" data-start="2026-07-15">—</span></div></div>
+  <div class="maint-box"><div class="maint-label">Estado PMANTO</div><div class="maint-value status">P09</div></div>
+  <div class="maint-box"><div class="maint-label">Descripción estado PMANTO</div><div class="maint-value">PETICION PENDIENTE DE GENERAR ORTR</div></div>
+</div>
 </header>
 
 <main class="container">
@@ -317,5 +367,19 @@ tbody tr:hover{background:#fafcff}
   <div class="footer-author">Diseño y elaboración · STTE. AMADO</div>
 </div>
 </main>
+<div data-equipment-meta style="display:none">6515-33-218-4269 RESPIRADOR PORTATIL HERSILL VITAE 40</div>
+<script>
+(function calcularDiasManto(){
+  const hoy = new Date();
+  hoy.setHours(0,0,0,0);
+  document.querySelectorAll('.dias-manto').forEach(function(el){
+    const partes = el.dataset.start.split('-');
+    const inicio = new Date(Number(partes[0]), Number(partes[1])-1, Number(partes[2]));
+    inicio.setHours(0,0,0,0);
+    const dias = Math.max(0, Math.floor((hoy - inicio) / 86400000));
+    el.textContent = dias + (dias === 1 ? ' día' : ' días');
+  });
+})();
+</script>
 </body>
 </html>

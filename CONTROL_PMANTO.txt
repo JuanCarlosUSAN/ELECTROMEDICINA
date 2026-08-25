@@ -1,0 +1,3 @@
+Registros PMANTO recibidos: 31
+Fichas actualizadas: 31
+Registros sin ficha coincidente: 0

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B - 22551-14-018</title>
+<style>
+*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f4f6f8;color:#1f2937}
+.wrap{max-width:1000px;margin:auto;padding:18px}.card{background:white;border-radius:14px;overflow:hidden;box-shadow:0 4px 18px #00000012}
+.head{padding:22px;background:#183b5b;color:white}h1{font-size:22px;margin:0 0 12px}
+.idrow{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.identifier{font-size:32px;font-weight:900;color:#c62828;background:white;padding:10px 15px;border-radius:10px}
+.noc-head{font-size:16px;font-weight:800;margin-top:10px}
+
+.meta-grid{
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;margin-top:14px
+}
+.meta-box{
+  background:rgba(255,255,255,.10);
+  border:1px solid rgba(255,255,255,.22);
+  border-radius:10px;padding:10px 12px
+}
+.meta-label{
+  font-size:11px;font-weight:800;letter-spacing:.5px;
+  text-transform:uppercase;opacity:.78
+}
+.meta-value{
+  margin-top:4px;font-size:15px;font-weight:800;word-break:break-word
+}
+.meta-value.alert{color:#ffd4d4}
+@media(max-width:700px){
+  .meta-grid{grid-template-columns:1fr}
+}
+
+.tablewrap{padding:18px}table{width:100%;border-collapse:collapse}th,td{padding:11px 9px;border-bottom:1px solid #e5e7eb;text-align:left}th{background:#f8fafc;font-size:13px}
+.bad{color:#b91c1c;font-weight:800}.neutral{color:#475467;font-weight:800}
+.footer{text-align:center;margin-top:28px;padding:18px 12px 4px;border-top:1px solid #d0d5dd;color:#667085}.footer-title{font-size:12px;font-weight:700;text-transform:uppercase}.footer-author{margin-top:6px;font-size:11px;color:#98a2b3}
+
+.maint-grid{
+  display:grid;grid-template-columns:1.35fr .8fr .6fr 1.8fr;
+  gap:10px;margin-top:12px
+}
+.maint-box{
+  background:#fff;border:1px solid #d0d5dd;border-radius:10px;padding:10px 12px
+}
+.maint-label{
+  font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:#667085
+}
+.maint-value{
+  margin-top:4px;font-size:14px;font-weight:800;color:#1d2939;word-break:break-word
+}
+.maint-value.status{color:#b42318}
+@media(max-width:800px){.maint-grid{grid-template-columns:1fr}}
+
+</style></head>
+<body><div class="wrap"><div class="card"><div class="head">
+<h1>ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B</h1>
+<div class="idrow"><div class="identifier">22551-14-018</div></div>
+<div class="noc-head">NOC: 6515-33-203-5933</div>
+<div class="meta-grid">
+  <div class="meta-box"><div class="meta-label">PMANTO</div><div class="meta-value">50030031-2026-1P-00767-0-00-00</div></div>
+  <div class="meta-box"><div class="meta-label">FCH CAD CTL</div><div class="meta-value ">oct-26</div></div>
+  <div class="meta-box"><div class="meta-label">PERTENENCIA</div><div class="meta-value">ET 116847_SVB</div></div>
+</div>
+</div>
+<div class="maint-grid">
+  <div class="maint-box"><div class="maint-label">PMANTO</div><div class="maint-value">50030031-2026-1P-00767-0-00-00</div></div>
+  <div class="maint-box"><div class="maint-label">DIAS EN MANTO</div><div class="maint-value"><span class="dias-manto" data-start="2026-07-08">—</span></div></div>
+  <div class="maint-box"><div class="maint-label">Estado PMANTO</div><div class="maint-value status">P09</div></div>
+  <div class="maint-box"><div class="maint-label">Descripción estado PMANTO</div><div class="maint-value">PETICION PENDIENTE DE GENERAR ORTR</div></div>
+</div><div class="tablewrap">
+<table><thead><tr><th>Artículo</th><th>FCH CAD</th><th>NOC</th><th>Nº Serie / Cantidad</th><th>Estado</th></tr></thead>
+<tbody><tr><td>ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B</td><td></td><td>6515-33-203-5933</td><td>22551-14-018</td><td class="neutral">SIN CONFIGURACIÓN DETALLADA</td></tr></tbody></table>
+</div></div>
+<div class="footer"><div class="footer-title">ELECTROMEDICINA · Ficha Digital de Material</div><div class="footer-author">Diseño y elaboración · STTE. AMADO</div></div>
+</div>
+<script>
+(function calcularDiasManto(){
+  const hoy = new Date();
+  hoy.setHours(0,0,0,0);
+  document.querySelectorAll('.dias-manto').forEach(function(el){
+    const partes = el.dataset.start.split('-');
+    const inicio = new Date(Number(partes[0]), Number(partes[1])-1, Number(partes[2]));
+    inicio.setHours(0,0,0,0);
+    const dias = Math.max(0, Math.floor((hoy - inicio) / 86400000));
+    el.textContent = dias + (dias === 1 ? ' día' : ' días');
+  });
+})();
+</script>
+</body></html>

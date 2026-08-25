@@ -1,0 +1,50 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BOTELLA PROTOXIDO 37,5KG - 13294499</title><style>
+*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f4f6f8;color:#1f2937}.wrap{max-width:1000px;margin:auto;padding:18px}
+.card{background:white;border-radius:14px;overflow:hidden;box-shadow:0 4px 18px #00000012}.head{padding:22px;background:#183b5b;color:white}h1{font-size:22px;margin:0 0 12px}
+.identifier{display:inline-block;font-size:34px;font-weight:900;color:#c62828;background:white;padding:9px 14px;border-radius:9px}.noc{margin-top:10px;font-weight:800}
+.meta{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:14px}.box{background:#ffffff18;border:1px solid #ffffff38;border-radius:10px;padding:11px}
+.lab{font-size:11px;font-weight:800;opacity:.75}.val{font-size:17px;font-weight:800;margin-top:4px}table{width:100%;border-collapse:collapse}th,td{padding:12px 10px;border-bottom:1px solid #e5e7eb;text-align:left}th{background:#f8fafc;font-size:13px}
+.footer{text-align:center;margin-top:28px;padding:18px 12px 4px;border-top:1px solid #d0d5dd;color:#667085}.ft{font-size:12px;font-weight:700;text-transform:uppercase}.fa{margin-top:6px;font-size:11px;color:#98a2b3}
+@media(max-width:700px){.meta{grid-template-columns:1fr}}
+
+.maint-grid{
+  display:grid;grid-template-columns:1.35fr .8fr .6fr 1.8fr;
+  gap:10px;margin-top:12px
+}
+.maint-box{
+  background:#fff;border:1px solid #d0d5dd;border-radius:10px;padding:10px 12px
+}
+.maint-label{
+  font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:#667085
+}
+.maint-value{
+  margin-top:4px;font-size:14px;font-weight:800;color:#1d2939;word-break:break-word
+}
+.maint-value.status{color:#b42318}
+@media(max-width:800px){.maint-grid{grid-template-columns:1fr}}
+
+</style></head><body><div class="wrap"><div class="card"><div class="head"><h1>BOTELLA PROTOXIDO 37,5KG</h1><div class="identifier">13294499</div>
+<div class="maint-grid">
+  <div class="maint-box"><div class="maint-label">PMANTO</div><div class="maint-value">50030031-2025-1C-01117-0-00-00</div></div>
+  <div class="maint-box"><div class="maint-label">DIAS EN MANTO</div><div class="maint-value"><span class="dias-manto" data-start="2025-11-11">—</span></div></div>
+  <div class="maint-box"><div class="maint-label">Estado PMANTO</div><div class="maint-value status">P05</div></div>
+  <div class="maint-box"><div class="maint-label">Descripción estado PMANTO</div><div class="maint-value">MATERIAL ENVIADO A LA UCO APOYO</div></div>
+</div><div class="noc">NOC: 8120-33-003-5451</div>
+<div class="meta"><div class="box"><div class="lab">NOMBRE UCO</div><div class="val">GL VII</div></div><div class="box"><div class="lab">ASIGNADA</div><div class="val">PCLA VII</div></div></div></div>
+<table><thead><tr><th>Artículo</th><th>FCH CAD</th><th>NOC</th><th>Nº Lote/Serie</th><th>Estado</th></tr></thead><tbody><tr><td>BOTELLA PROTOXIDO 37,5KG</td><td></td><td>8120-33-003-5451</td><td>13294499</td><td>—</td></tr></tbody></table></div>
+<div class="footer"><div class="ft">ELECTROMEDICINA · Ficha Digital de Material</div><div class="fa">Diseño y elaboración · STTE. AMADO</div></div></div>
+<script>
+(function calcularDiasManto(){
+  const hoy = new Date();
+  hoy.setHours(0,0,0,0);
+  document.querySelectorAll('.dias-manto').forEach(function(el){
+    const partes = el.dataset.start.split('-');
+    const inicio = new Date(Number(partes[0]), Number(partes[1])-1, Number(partes[2]));
+    inicio.setHours(0,0,0,0);
+    const dias = Math.max(0, Math.floor((hoy - inicio) / 86400000));
+    el.textContent = dias + (dias === 1 ? ' día' : ' días');
+  });
+})();
+</script>
+</body></html>

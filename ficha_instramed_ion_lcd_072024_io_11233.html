@@ -168,6 +168,28 @@ tbody tr:hover{background:#fafcff}
   .article{font-size:15px;margin-bottom:3px}
   .noc{white-space:normal}
 }
+
+.meta-grid{
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;margin-top:14px
+}
+.meta-box{
+  background:rgba(255,255,255,.10);
+  border:1px solid rgba(255,255,255,.22);
+  border-radius:10px;padding:10px 12px
+}
+.meta-label{
+  font-size:11px;font-weight:800;letter-spacing:.5px;
+  text-transform:uppercase;opacity:.78
+}
+.meta-value{
+  margin-top:4px;font-size:15px;font-weight:800;word-break:break-word
+}
+.meta-value.alert{color:#ffd4d4}
+@media(max-width:700px){
+  .meta-grid{grid-template-columns:1fr}
+}
+
 </style>
 </head>
 <body>
@@ -176,6 +198,11 @@ tbody tr:hover{background:#fafcff}
     <a class="back" href="index.html">← Volver a ELECTROMEDICINA</a>
     <h1 class="title">DESFIBRILADOR INSTRAMED I.ON LCD</h1>
     <div class="idrow"><div class="identifier">072024 IO 11233</div><div class="expiry">FCH CAD CTL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div>
+<div class="meta-grid">
+  <div class="meta-box"><div class="meta-label">PMANTO</div><div class="meta-value">50030031-2026-1C-00075-0-00-00</div></div>
+  <div class="meta-box"><div class="meta-label">FCH CAD CTL</div><div class="meta-value alert">01/11/2027_ INOPERATIVO</div></div>
+  <div class="meta-box"><div class="meta-label">PERTENENCIA</div><div class="meta-value">PCLA</div></div>
+</div>
   </div>
 </header>
 
@@ -247,5 +274,5 @@ tbody tr:hover{background:#fafcff}
   <div class="footer-author">Diseño y elaboración · STTE. AMADO</div>
 </div>
 </main>
-</body>
+<div data-equipment-meta style="display:none">6515-19-009-1910 DESFIBRILADOR INSTRAMED I.ON LCD</div></body>
 </html>
