@@ -1,11 +1,28 @@
 {
   "metadata": {
     "project": "ELECTROMEDICINA",
-    "source": "Excel facilitado por el usuario",
     "total_equipos": 121,
-    "total_componentes": 375,
-    "observaciones_habilitadas": true,
-    "ualsan_destacado_rojo_amarillo": true
+    "noc_corregidos": [
+      "775.01004",
+      "775.02714",
+      "77502857",
+      "37605171",
+      "072024 IO 11227",
+      "072024 IO 11233",
+      "072024 IO 11525",
+      "102022 IO 5468",
+      "9000.001039",
+      "22622723",
+      "ASFA-0043",
+      "ASHL-0122",
+      "6126",
+      "53109-0133",
+      "53204-0097 NF",
+      "53204-0149 NF",
+      "61262-0050",
+      "65622-0028",
+      "67354-0042"
+    ]
   },
   "equipos": [
     {
@@ -31,8 +48,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORT HERSILL V7M",
@@ -57,8 +73,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -73,8 +88,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_22551_14_018.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_22551_14_018.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -89,8 +103,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_020.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_020.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -105,8 +118,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_032.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_032.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -121,8 +133,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_042.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_30574_41_042.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -137,8 +148,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_45656_0192.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_45656_0192.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -163,8 +173,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -179,8 +188,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_63924_0091.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_63924_0091.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "ASPIRADOR SECRECION PORTATIL HERSILL V7 PLUS B",
@@ -195,8 +203,7 @@
       "observaciones": "",
       "filename": "ficha_aspirador_secrecion_portatil_hersill_v7_pl_70430_0010.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_aspirador_secrecion_portatil_hersill_v7_pl_70430_0010.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "AUTOCLAVE ELECT 21L MATACHANA 21E",
@@ -204,15 +211,14 @@
       "numero_serie": "E-15678",
       "pmanto": "",
       "fch_cad_ctl": "INUTIL",
-      "asignado_a": "Faltante_INUTIL_PCLA",
+      "asignado_a": "INUTIL_PCLA",
       "uco": "",
       "estado": "INUTIL",
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_autoclave_elect_21l_matachana_21e_e_15678.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_autoclave_elect_21l_matachana_21e_e_15678.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "AUTOCLAVE ELECT 9L PRESTIGE 210001",
@@ -227,8 +233,7 @@
       "observaciones": "",
       "filename": "ficha_autoclave_elect_9l_prestige_210001_pj19014.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_autoclave_elect_9l_prestige_210001_pj19014.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOMBA DE INFUSION MEDIMA 1 VIA P300",
@@ -298,8 +303,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "BOMBA INFUSION B.BRAUN INFUSOMAT SPACE (MONOCANAL)",
@@ -342,8 +346,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "BOMBA INFUSION INTRAVENOSA (HOSPIRA)",
@@ -358,8 +361,7 @@
       "observaciones": "",
       "filename": "ficha_bomba_infusion_intravenosa_hospira_30019_7531.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_bomba_infusion_intravenosa_hospira_30019_7531.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOMBA INFUSION INTRAVENOSA (HOSPIRA)",
@@ -374,8 +376,7 @@
       "observaciones": "",
       "filename": "ficha_bomba_infusion_intravenosa_hospira_90001_1321.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_bomba_infusion_intravenosa_hospira_90001_1321.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOMBA INFUSION INTRAVENOSA (HOSPIRA)",
@@ -390,8 +391,7 @@
       "observaciones": "",
       "filename": "ficha_bomba_infusion_intravenosa_hospira_90002_4073.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_bomba_infusion_intravenosa_hospira_90002_4073.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOMBA INFUSION INTRAVENOSA ALARIS 7230/7231",
@@ -406,8 +406,7 @@
       "observaciones": "",
       "filename": "ficha_bomba_infusion_intravenosa_alaris_7230_723_4017413.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_bomba_infusion_intravenosa_alaris_7230_723_4017413.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOMBA INFUSION MONOCANAL BRAUN INFUSOMAT SPACE",
@@ -450,8 +449,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -466,8 +464,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_amv_016.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_amv_016.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -482,8 +479,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_amv_063.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_amv_063.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -498,8 +494,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_amv_161.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_amv_161.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -514,8 +509,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_bys004.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_bys004.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -530,8 +524,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_bys013.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_bys013.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -546,8 +539,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_dac026.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_dac026.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -562,8 +554,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_ea4656.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_ea4656.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -578,8 +569,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_fx106.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_fx106.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -594,8 +584,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_062.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_mwu_062.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -610,8 +599,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_068.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_mwu_068.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -626,8 +614,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_107.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_mwu_107.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -642,8 +629,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_mwu_113.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_mwu_113.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 10L",
@@ -658,8 +644,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_10l_vtx161.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_10l_vtx161.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -674,8 +659,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_10742188.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_10742188.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -690,8 +674,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_312324.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_312324.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -706,8 +689,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_ape146.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_ape146.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -722,8 +704,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_apu_156.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_apu_156.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -738,8 +719,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_bwu095ut.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_bwu095ut.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -754,8 +734,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_da157.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_da157.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -770,8 +749,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_kpl160.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_kpl160.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -786,8 +764,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_mlf_104.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_mlf_104.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -802,8 +779,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_mnz_008.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_mnz_008.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -818,8 +794,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_mnz_050.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_mnz_050.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -834,8 +809,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_mnz_150.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_mnz_150.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -850,8 +824,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_mpm_141.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_mpm_141.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 2L",
@@ -866,8 +839,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_2l_mpo_005.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_2l_mpo_005.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 3L",
@@ -882,8 +854,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_3l_e62811.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_3l_e62811.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 50L",
@@ -898,8 +869,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_50l_100927.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_50l_100927.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -914,8 +884,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_5l_alz011.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_alz011.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -930,8 +899,7 @@
       "observaciones": "EN TRANSITO!!",
       "filename": "ficha_botella_oxigeno_medicinal_5l_bbi082.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_bbi082.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -941,13 +909,12 @@
       "fch_cad_ctl": "",
       "asignado_a": "ET 117722 SVB",
       "uco": "GL VII",
-      "estado": "OPERATIVO",
+      "estado": "OP CONDICIONAL",
       "codigo_operatividad": "",
-      "observaciones": "",
+      "observaciones": "TIENE ERROR EN DOC LEGAL",
       "filename": "ficha_botella_oxigeno_medicinal_5l_bye101ut.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_bye101ut.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -962,8 +929,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_5l_kxq023.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_kxq023.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -978,8 +944,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_5l_kxq171.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_kxq171.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -994,8 +959,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_5l_mjl_069.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_mjl_069.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -1010,8 +974,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_5l_mjl_133.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_mjl_133.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 5L",
@@ -1026,8 +989,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_5l_vxg140.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_5l_vxg140.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 6,7L",
@@ -1042,8 +1004,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_6_7l_240695.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_6_7l_240695.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1058,8 +1019,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_006.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_avj_006.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1074,8 +1034,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_010.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_avj_010.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1090,8 +1049,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_011.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_avj_011.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1106,8 +1064,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_013.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_avj_013.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1122,8 +1079,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_avj_014.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_avj_014.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1138,8 +1094,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_tku010.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_tku010.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA OXIGENO MEDICINAL 7,5L",
@@ -1154,8 +1109,7 @@
       "observaciones": "",
       "filename": "ficha_botella_oxigeno_medicinal_7_5l_tku035.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_oxigeno_medicinal_7_5l_tku035.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "BOTELLA PROTOXIDO 37,5KG",
@@ -1170,8 +1124,7 @@
       "observaciones": "",
       "filename": "ficha_botella_protoxido_37_5kg_13294499.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_botella_protoxido_37_5kg_13294499.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "CALENTADOR DE SUERO ANIMEC AM-301",
@@ -1186,8 +1139,7 @@
       "observaciones": "",
       "filename": "ficha_calentador_de_suero_animec_am_301_2013d0055.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_calentador_de_suero_animec_am_301_2013d0055.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "CALENTADOR DE SUERO ANIMEC AM-301",
@@ -1202,8 +1154,7 @@
       "observaciones": "",
       "filename": "ficha_calentador_de_suero_animec_am_301_2014d0760.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_calentador_de_suero_animec_am_301_2014d0760.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "CALENTADOR DE SUERO ANIMEC AM-301",
@@ -1228,8 +1179,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "CALENTADOR DE SUERO ANIMEC AM-301",
@@ -1244,8 +1194,7 @@
       "observaciones": "",
       "filename": "ficha_calentador_de_suero_animec_am_301_2015d0485.html",
       "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_calentador_de_suero_animec_am_301_2015d0485.html",
-      "componentes": [],
-      "configuracion_detallada": false
+      "componentes": []
     },
     {
       "nombre_articulo": "DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
@@ -1297,8 +1246,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR AUT SCHILLER FRED EASYPORT",
@@ -1350,12 +1298,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR C/ MONITOR   SCHILLER ARGUS PRO LIFECARE 2",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-41-001-5300",
       "numero_serie": "775.01004",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -1601,12 +1548,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR C/ MONITOR   SCHILLER ARGUS PRO LIFECARE 2",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-41-001-5300",
       "numero_serie": "775.02714",
       "pmanto": "",
       "fch_cad_ctl": "may-27",
@@ -1861,12 +1807,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR C/ MONITOR   SCHILLER ARGUS PRO LIFECARE 2",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-41-001-5300",
       "numero_serie": "77502857",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -2130,12 +2075,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR C/ MONITOR PHYSIO LIFEPAK 12",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-01-458-3831",
       "numero_serie": "37605171",
       "pmanto": "",
       "fch_cad_ctl": "INUTIL",
@@ -2264,8 +2208,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR C/ MONITOR SCHILLER ARGUS PRO LIFE CARE 2",
@@ -2524,8 +2467,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR CON MONITOR ZOLL X SERIES",
@@ -2748,12 +2690,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-19-009-1910",
       "numero_serie": "072024 IO 11227",
       "pmanto": "",
       "fch_cad_ctl": "nov-27",
@@ -2819,12 +2760,11 @@
           "estado": "INOPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-19-009-1910",
       "numero_serie": "072024 IO 11233",
       "pmanto": "50030031-2026-1C-00075-0-00-00",
       "fch_cad_ctl": "01/11/2027_ INOPERATIVO",
@@ -2881,12 +2821,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-19-009-1910",
       "numero_serie": "072024 IO 11525",
       "pmanto": "",
       "fch_cad_ctl": "nov-27",
@@ -2952,8 +2891,7 @@
           "estado": "INOPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
@@ -2967,7 +2905,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_desfibrilador_instramed_i_on_lcd_082023_io_8297.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instrame...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instramed_i_on_lcd_082023_io_8297.html",
       "componentes": [
         {
           "articulo": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
@@ -3014,8 +2952,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
@@ -3029,7 +2966,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5454.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instrame...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instramed_i_on_lcd_102022_io_5454.html",
       "componentes": [
         {
           "articulo": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
@@ -3076,12 +3013,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-19-009-1910",
       "numero_serie": "102022 IO 5468",
       "pmanto": "50030031-2026-1C-00240-0-00-00",
       "fch_cad_ctl": "01/11/2027_INOPERATIVO",
@@ -3091,7 +3027,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_instramed_ion_lcd_102022_io_5468.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_instramed_ion_lcd_1020...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_instramed_ion_lcd_102022_io_5468.html",
       "componentes": [
         {
           "articulo": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
@@ -3138,8 +3074,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
@@ -3153,7 +3088,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5471.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instrame...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instramed_i_on_lcd_102022_io_5471.html",
       "componentes": [
         {
           "articulo": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
@@ -3200,8 +3135,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
@@ -3215,7 +3149,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5497.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instrame...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instramed_i_on_lcd_102022_io_5497.html",
       "componentes": [
         {
           "articulo": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
@@ -3262,8 +3196,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR INSTRAMED I.ON LCD",
@@ -3277,7 +3210,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_desfibrilador_instramed_i_on_lcd_102022_io_5610.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instrame...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_instramed_i_on_lcd_102022_io_5610.html",
       "componentes": [
         {
           "articulo": "PARCHE ELECTRODO ADULTO DESFIBRILADOR INSTRAMED",
@@ -3324,12 +3257,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR SCHILLER FRED EASYPORT PLUS   MANUAL",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-14-602-0550",
       "numero_serie": "9000.001039",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -3339,7 +3271,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_schiller_fred_easyport_plus_9000_001039.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_schiller_fred_easyport...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_schiller_fred_easyport_plus_9000_001039.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER FRED EASYPORT",
@@ -3413,8 +3345,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "DESFIBRILADOR SCHILLER FRED EASYPORT PLUS MANUAL",
@@ -3428,7 +3359,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_desfibrilador_schiller_fred_easyport_plus__9000_001105.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_schiller...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_desfibrilador_schiller_fred_easyport_plus__9000_001105.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE DESFIBRILADOR SCHILLER FRED EASYPORT",
@@ -3502,8 +3433,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "ECOGRAFO VSCAN EXTEND DUAL PROBE",
@@ -3517,7 +3447,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_ecografo_vscan_extend_dual_probe_vh2679385g.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_ecografo_vscan_extend_...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_ecografo_vscan_extend_dual_probe_vh2679385g.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE ECOGRAFO VSCAN EXTEND DUAL PROBE",
@@ -3537,8 +3467,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "ELECTROBISTURI LED SPA SURTRON TOUCH HP400",
@@ -3552,9 +3481,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_electrobisturi_led_spa_surtron_touch_hp400_537_0270414.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_electrobisturi_led_spa...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_electrobisturi_led_spa_surtron_touch_hp400_537_0270414.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "EQ ANESTESIA DRAGER FABIUS CE",
@@ -3568,7 +3496,7 @@
       "codigo_operatividad": "40",
       "observaciones": "",
       "filename": "ficha_eq_anestesia_drager_fabius_ce_urlk0064.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_eq_anestesia_drager_fa...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_eq_anestesia_drager_fabius_ce_urlk0064.html",
       "componentes": [
         {
           "articulo": "EQ CAPNOGRAFIA DRAGER VAMOS",
@@ -3597,8 +3525,7 @@
           "estado": "AUSENTE",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "EQUIPO DE RADIOLOGIA PORTATIL PIONEER",
@@ -3612,7 +3539,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_equipo_de_radiologia_portatil_pioneer_ph00357.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_equipo_de_radiologia_p...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_equipo_de_radiologia_portatil_pioneer_ph00357.html",
       "componentes": [
         {
           "articulo": "GENERADOR 50KW",
@@ -3722,8 +3649,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "MONITOR CONST VITALES KTMED KTPM-1060",
@@ -3737,9 +3663,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_monitor_const_vitales_ktmed_ktpm_1060_za1460352.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_ktmed_ktpm_1060_za1460352.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "MONITOR CONST VITALES KTMED KTPM-1060",
@@ -3753,9 +3678,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_monitor_const_vitales_ktmed_ktpm_1060_za1460354.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_ktmed_ktpm_1060_za1460354.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "MONITOR CONST VITALES KTMED KTPM-1060",
@@ -3769,9 +3693,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_monitor_const_vitales_ktmed_ktpm_1060_zb1200213.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_ktmed_ktpm_1060_zb1200213.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "MONITOR CONST VITALES PHYSIOGARD TOUCH 7",
@@ -3785,7 +3708,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_monitor_const_vitales_physiogard_touch_7_128950000792.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_physiogard_touch_7_128950000792.html",
       "componentes": [
         {
           "articulo": "BRAZALETE ESFIGMOMANOMETRO PARA ADULTO",
@@ -3895,8 +3818,7 @@
           "estado": "AUSENTE",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "MONITOR CONST VITALES PROPAQ CS 246",
@@ -3910,9 +3832,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_monitor_const_vitales_propaq_cs_246_ga108313.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_monitor_const_vitales_propaq_cs_246_ga108313.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
@@ -3926,9 +3847,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_05010426.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambula...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambulancia_tropicool_tc_7l_05010426.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
@@ -3942,9 +3862,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_08018231.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambula...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambulancia_tropicool_tc_7l_08018231.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
@@ -3958,9 +3877,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_10025787.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambula...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambulancia_tropicool_tc_7l_10025787.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
@@ -3974,9 +3892,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_11026363.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambula...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambulancia_tropicool_tc_7l_11026363.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
@@ -3990,9 +3907,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_11026374.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambula...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambulancia_tropicool_tc_7l_11026374.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL AMBULANCIA TROPICOOL TC 7L",
@@ -4006,9 +3922,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_ambulancia_tropicool_tc_7l_43200040.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambula...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_ambulancia_tropicool_tc_7l_43200040.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL TROPICOOL BORDBAR TB08",
@@ -4022,9 +3937,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_tropicool_bordbar_tb08_31400172.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_tropic...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_tropicool_bordbar_tb08_31400172.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "NEVERA PORTATIL TROPICOOL BORDBAR TB08",
@@ -4038,7 +3952,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_nevera_portatil_tropicool_bordbar_tb08_31400175.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_tropic...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_nevera_portatil_tropicool_bordbar_tb08_31400175.html",
       "componentes": [
         {
           "articulo": "NEVERA PORTATIL TROPICOOL BORDBAR TB08",
@@ -4049,8 +3963,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "OXIMETRO CAPNOGRAFO MICROCAP PLUS",
@@ -4064,9 +3977,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_oximetro_capnografo_microcap_plus_mp1002741.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_capnografo_mi...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_capnografo_microcap_plus_mp1002741.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "OXIMETRO CAPNOGRAFO MICROCAP PLUS",
@@ -4080,9 +3992,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_oximetro_capnografo_microcap_plus_mp1104178.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_capnografo_mi...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_capnografo_microcap_plus_mp1104178.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "OXIMETRO CAPNOGRAFO MICROCAP PLUS",
@@ -4096,9 +4007,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_oximetro_capnografo_microcap_plus_mp1104204.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_capnografo_mi...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_capnografo_microcap_plus_mp1104204.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "OXIMETRO DE PULSO RAD-67",
@@ -4112,13 +4022,12 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_oximetro_de_pulso_rad_67_5000012033.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_de_pulso_rad_...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_oximetro_de_pulso_rad_67_5000012033.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "RESPIRADOR NEUMATICO AMBU MATIC",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-22-125-4881",
       "numero_serie": "22622723",
       "pmanto": "",
       "fch_cad_ctl": "INUTIL",
@@ -4166,12 +4075,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORT DRAGUER OXYLOG 2000 PLUS",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-12-379-5424",
       "numero_serie": "ASFA-0043",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4181,9 +4089,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_draguer_oxylog2000plus_asfa_0043.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_draguer_oxylog2000plus...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_draguer_oxylog2000plus_asfa_0043.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "RESPIRADOR PORT DRAGUER OXYLOG 2000 PLUS",
@@ -4197,13 +4104,12 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_respirador_port_draguer_oxylog_2000_plus_asha_0020.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_respirador_port_drague...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_respirador_port_draguer_oxylog_2000_plus_asha_0020.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "RESPIRADOR PORT DRAGUER OXYLOG 2000 PLUS",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-12-379-5424",
       "numero_serie": "ASHL-0122",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4213,9 +4119,8 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_draguer_oxylog2000plus_ashl_0122.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_draguer_oxylog2000plus...",
-      "componentes": [],
-      "configuracion_detallada": false
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_draguer_oxylog2000plus_ashl_0122.html",
+      "componentes": []
     },
     {
       "nombre_articulo": "RESPIRADOR PORT MEDUMAD EASY WM28000",
@@ -4229,7 +4134,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_respirador_port_medumad_easy_wm28000_6006.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_respirador_port_meduma...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_respirador_port_medumad_easy_wm28000_6006.html",
       "componentes": [
         {
           "articulo": "VALVULA PEEP DESECHABLE",
@@ -4276,12 +4181,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORT MEDUMAD EASY WM28000",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-T10-2131",
       "numero_serie": "6126",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4338,12 +4242,11 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORTATIL HERSILL VITAE 40",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-218-4269",
       "numero_serie": "53109-0133",
       "pmanto": "",
       "fch_cad_ctl": "INOPERATIVO E32 // JUN26",
@@ -4353,7 +4256,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_hersill_vitae40_53109_0133.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_53109_...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_53109_0133.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
@@ -4490,12 +4393,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORTATIL HERSILL VITAE 40",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-218-4269",
       "numero_serie": "53204-0097 NF",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4651,12 +4553,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORTATIL HERSILL VITAE 40",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-218-4269",
       "numero_serie": "53204-0149 NF",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4666,7 +4567,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_hersill_vitae40_53204_0149_nf.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_53204_...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_53204_0149_nf.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
@@ -4812,12 +4713,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORTATIL HERSILL VITAE 40",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-218-4269",
       "numero_serie": "61262-0050",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4827,7 +4727,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_hersill_vitae40_61262_0050.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_61262_...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_61262_0050.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
@@ -4964,12 +4864,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORTATIL HERSILL VITAE 40",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-218-4269",
       "numero_serie": "65622-0028",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -4979,7 +4878,7 @@
       "codigo_operatividad": "",
       "observaciones": "",
       "filename": "ficha_hersill_vitae40_65622_0028.html",
-      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_65622_...",
+      "url": "https://juancarlosusan.github.io/ELECTROMEDICINA/ficha_hersill_vitae40_65622_0028.html",
       "componentes": [
         {
           "articulo": "BATERIA RECARGABLE EXTERNA (SAI) RESPIRADOR VITAE 40",
@@ -5116,12 +5015,11 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR PORTATIL HERSILL VITAE 40",
-      "noc": ":before{content:\"NOC\"}",
+      "noc": "6515-33-218-4269",
       "numero_serie": "67354-0042",
       "pmanto": "",
       "fch_cad_ctl": "oct-26",
@@ -5268,8 +5166,7 @@
           "estado": "MONTADO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     },
     {
       "nombre_articulo": "RESPIRADOR WEINMANN MEDUMAT EASY CPR WM 28140",
@@ -5357,8 +5254,7 @@
           "estado": "OPERATIVO",
           "codigo_operatividad": ""
         }
-      ],
-      "configuracion_detallada": true
+      ]
     }
   ]
 }
