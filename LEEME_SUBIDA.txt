@@ -1,0 +1,17 @@
+ARCHIVOS LISTOS PARA GITHUB
+
+Sube TODO el contenido de esta carpeta a la raíz del repositorio:
+JuanCarlosUSAN/ELECTROMEDICINA
+
+Incluye:
+- index.html
+- todas las fichas HTML
+- data/inventario.json
+
+Los QR existentes siguen funcionando porque se han conservado los Filename.
+
+Cambios aplicados:
+- OBSERVACIONES aparece al lado del Nº Serie en portada y ficha.
+- OBSERVACIONES también entra en el buscador.
+- Si ASIGNADO A = UALSAN, aparece en rojo, negrita y fondo amarillo.
+- Estados INOPERATIVO / INUTIL / AUSENTE se destacan en rojo.
